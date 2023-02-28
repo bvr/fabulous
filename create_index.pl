@@ -8,6 +8,9 @@ use Data::Dump;
 my $ua = Mojo::UserAgent->new(max_redirects => 5);
 
 my $base_url = 'https://ericlippert.com';
+
+# dd $ua->get($base_url)->res;
+
 for my $month ($ua->get($base_url)->res->dom->find('#archives-2 a')->each) {
     print "\n## [", $month->text, "](", $month->{href}, ")\n";
     for my $article ($ua->get($month->{href})->res->dom->find('article')->each) {
@@ -17,3 +20,4 @@ for my $month ($ua->get($base_url)->res->dom->find('#archives-2 a')->each) {
         print " - [", $title->text, "](", $title->{href}, ")\n";
     }
 }
+

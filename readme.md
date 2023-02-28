@@ -1,4 +1,110 @@
 
+## [February 2023](https://ericlippert.com/2023/02/)
+ - [Bean Machine Retrospective, part 8](https://ericlippert.com/2023/02/23/bean-machine-retrospective-part-8/)
+ - [Bean Machine Retrospective, part 7](https://ericlippert.com/2023/02/08/bean-machine-retrospective-part-7/)
+ - [The names of birds, part 4](https://ericlippert.com/2023/02/03/the-names-of-birds-part-4/)
+ - [The names of birds, part 3](https://ericlippert.com/2023/02/01/the-names-of-birds-part-3/)
+
+## [January 2023](https://ericlippert.com/2023/01/)
+ - [The names of birds, part 2](https://ericlippert.com/2023/01/30/the-names-of-birds-part-2/)
+ - [The names of birds, part 1](https://ericlippert.com/2023/01/17/the-names-of-birds-part-1/)
+ - [Bean Machine Retrospective, part 6](https://ericlippert.com/2023/01/05/bean-machine-retrospective-part-6/)
+
+## [December 2022](https://ericlippert.com/2022/12/)
+ - [Bean Machine Retrospective, part 5](https://ericlippert.com/2022/12/20/bean-machine-retrospective-part-5/)
+ - [I want toast](https://ericlippert.com/2022/12/14/i-want-toast/)
+ - [Bean Machine Retrospective, part 4](https://ericlippert.com/2022/12/09/bean-machine-retrospective-part-4/)
+ - [Bean Machine Retrospective, part 3](https://ericlippert.com/2022/12/07/bean-machine-retrospective-part-3/)
+ - [Bean Machine Retrospective, part 2](https://ericlippert.com/2022/12/05/bean-machine-retrospective-part-2/)
+ - [Bean Machine Retrospective, part 1](https://ericlippert.com/2022/12/02/bean-machine-retrospective-part-1/)
+
+## [November 2022](https://ericlippert.com/2022/11/)
+ - [A long expected update](https://ericlippert.com/2022/11/30/a-long-expected-update/)
+
+## [February 2021](https://ericlippert.com/2021/02/)
+ - [Life, part 38](https://ericlippert.com/2021/02/17/life-part-38/)
+ - [Hey now, you’re an all-star](https://ericlippert.com/2021/02/09/hey-now-youre-an-all-star/)
+
+## [December 2020](https://ericlippert.com/2020/12/)
+ - [Backyard birds of Seattle](https://ericlippert.com/2020/12/15/backyard-birds-of-seattle/)
+
+## [October 2020](https://ericlippert.com/2020/10/)
+ - [The VSTO startup sequence](https://ericlippert.com/2020/10/29/the-vsto-startup-sequence/)
+ - [Life, part 37](https://ericlippert.com/2020/10/12/life-part-37/)
+ - [Life, part 36](https://ericlippert.com/2020/10/06/life-part-36/)
+
+## [September 2020](https://ericlippert.com/2020/09/)
+ - [Introducing Bean Machine](https://ericlippert.com/2020/09/23/introducing-bean-machine/)
+ - [Life, part 35](https://ericlippert.com/2020/09/14/life-part-35/)
+ - [Life, part 34](https://ericlippert.com/2020/09/10/life-part-34/)
+ - [Installing windows](https://ericlippert.com/2020/09/08/installing-windows/)
+
+## [August 2020](https://ericlippert.com/2020/08/)
+ - [Implementing a full fence](https://ericlippert.com/2020/08/31/implementing-a-full-fence/)
+ - [Life, part 33](https://ericlippert.com/2020/08/26/life-part-33/)
+ - [Approximate results may vary](https://ericlippert.com/2020/08/21/approximate-results-may-vary/)
+ - [Life, part 32](https://ericlippert.com/2020/08/17/life-part-32/)
+ - [Socially distant abbreviated summer vacation](https://ericlippert.com/2020/08/14/socially-distant-abbreviated-summer-vacation/)
+ - [Life, part 31](https://ericlippert.com/2020/08/13/life-part-31/)
+ - [Life, part 30](https://ericlippert.com/2020/08/05/life-part-30/)
+ - [Life, part 29](https://ericlippert.com/2020/08/03/life-part-29/)
+
+## [July 2020](https://ericlippert.com/2020/07/)
+ - [Life, part 28](https://ericlippert.com/2020/07/30/life-part-28/)
+ - [Life, part 27](https://ericlippert.com/2020/07/27/life-part-27/)
+ - [Life, part 26](https://ericlippert.com/2020/07/23/life-part-26/)
+ - [Life, part 25](https://ericlippert.com/2020/07/20/life-part-25/)
+ - [Life, part 24](https://ericlippert.com/2020/07/16/life-part-24/)
+ - [Comet NEOWISE](https://ericlippert.com/2020/07/15/comet-neowise/)
+ - [Life, part 23](https://ericlippert.com/2020/07/13/life-part-23/)
+ - [Life, part 22](https://ericlippert.com/2020/07/09/life-part-22/)
+ - [Life, part 21](https://ericlippert.com/2020/07/06/life-part-21/)
+ - [Life, part 20](https://ericlippert.com/2020/07/02/life-part-20/)
+
+## [June 2020](https://ericlippert.com/2020/06/)
+ - [Life, part 19](https://ericlippert.com/2020/06/29/life-part-19/)
+ - [Life, part 18](https://ericlippert.com/2020/06/25/life-part-18/)
+ - [Life, part 17](https://ericlippert.com/2020/06/22/life-part-17/)
+ - [Life, part 16](https://ericlippert.com/2020/06/18/life-part-16/)
+ - [Life, part 15](https://ericlippert.com/2020/06/15/life-part-15/)
+ - [Life, part 14](https://ericlippert.com/2020/06/11/life-part-14/)
+ - [Police brutality in Seattle](https://ericlippert.com/2020/06/01/police-brutality-in-seattle/)
+
+## [May 2020](https://ericlippert.com/2020/05/)
+ - [Life, part 13](https://ericlippert.com/2020/05/28/life-part-13/)
+ - [Life, part 12](https://ericlippert.com/2020/05/26/life-part-12/)
+ - [Life, part 11](https://ericlippert.com/2020/05/21/life-part-11/)
+ - [Life, part 10](https://ericlippert.com/2020/05/18/life-part-10/)
+ - [Life, part 9](https://ericlippert.com/2020/05/14/life-part-9/)
+ - [Life, part 8](https://ericlippert.com/2020/05/11/life-part-8/)
+ - [Life, part 7](https://ericlippert.com/2020/05/07/life-part-7/)
+ - [Life, part 6](https://ericlippert.com/2020/05/04/life-part-6/)
+
+## [April 2020](https://ericlippert.com/2020/04/)
+ - [Life, part 5](https://ericlippert.com/2020/04/30/life-part-5/)
+ - [Life, part 4](https://ericlippert.com/2020/04/27/life-part-4/)
+ - [Life, part 3](https://ericlippert.com/2020/04/23/life-part-3/)
+ - [Life, part 2](https://ericlippert.com/2020/04/20/life-part-2/)
+ - [Life, part 1](https://ericlippert.com/2020/04/13/life-part-1/)
+ - [Report thy feat unto Lord British](https://ericlippert.com/2020/04/10/report-thy-feat-unto-lord-british/)
+
+## [March 2020](https://ericlippert.com/2020/03/)
+ - [New grad vs senior dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/)
+ - [Bandits, victims and idiots](https://ericlippert.com/2020/03/24/bandits-victims-and-idiots/)
+ - [Working from home](https://ericlippert.com/2020/03/20/working-from-home/)
+ - [Passing awaited tasks](https://ericlippert.com/2020/03/10/passing-awaited-tasks/)
+
+## [February 2020](https://ericlippert.com/2020/02/)
+ - [Hundred year mistakes](https://ericlippert.com/2020/02/27/hundred-year-mistakes/)
+ - [Building a fake company](https://ericlippert.com/2020/02/24/building-a-fake-company/)
+
+## [January 2020](https://ericlippert.com/2020/01/)
+ - [A Picard Easter egg](https://ericlippert.com/2020/01/24/a-picard-easter-egg/)
+
+## [December 2019](https://ericlippert.com/2019/12/)
+ - [Work and success](https://ericlippert.com/2019/12/30/work-and-success/)
+ - [Fixing Random, bonus episode 3](https://ericlippert.com/2019/12/11/fixing-random-bonus-episode-3/)
+
 ## [November 2019](https://ericlippert.com/2019/11/)
  - [Fixing Random, bonus episode 2: pigeons and the noisy-or distribution](https://ericlippert.com/2019/11/08/fixing-random-bonus-episode-2-pigeons-and-the-noisy-or-distribution/)
 
@@ -28,6 +134,8 @@
  - [Fixing Random, part 30](https://ericlippert.com/2019/05/13/fixing-random-part-30/)
  - [Fixing Random, part 29](https://ericlippert.com/2019/05/10/fixing-random-part-29/)
  - [Fixing Random, part 28](https://ericlippert.com/2019/05/06/fixing-random-part-28/)
+ - [Fixing Random, part 27](https://ericlippert.com/2019/05/02/fixing-random-part-27/)
+ - [Porting old posts, part 3](https://ericlippert.com/2019/05/01/porting-old-posts-part-3/)
 
 ## [April 2019](https://ericlippert.com/2019/04/)
  - [Fixing Random, part 26](https://ericlippert.com/2019/04/29/fixing-random-part-26/)
@@ -37,6 +145,9 @@
  - [Fixing Random, part 22](https://ericlippert.com/2019/04/15/fixing-random-part-22/)
  - [Porting old posts, part 2](https://ericlippert.com/2019/04/12/porting-old-posts-part-2/)
  - [Fixing Random, part 21](https://ericlippert.com/2019/04/11/fixing-random-part-21/)
+ - [Porting old posts, part 1](https://ericlippert.com/2019/04/09/porting-old-posts-part-1/)
+ - [Fixing Random, part 20](https://ericlippert.com/2019/04/08/fixing-random-part-20/)
+ - [Fixing Random, part 19](https://ericlippert.com/2019/04/04/fixing-random-part-19/)
 
 ## [March 2019](https://ericlippert.com/2019/03/)
  - [Fixing Random, part 17](https://ericlippert.com/2019/03/28/fixing-random-part-17/)
@@ -46,6 +157,8 @@
  - [Fixing Random, part 14](https://ericlippert.com/2019/03/18/fixing-random-part-14/)
  - [Fixing Random, part 13](https://ericlippert.com/2019/03/14/fixing-random-part-13/)
  - [Fixing Random, part 12](https://ericlippert.com/2019/03/11/fixing-random-part-12/)
+ - [Fixing Random, part 11](https://ericlippert.com/2019/03/07/fixing-random-part-11/)
+ - [Fixing Random, part 10](https://ericlippert.com/2019/03/04/fixing-random-part-10/)
 
 ## [February 2019](https://ericlippert.com/2019/02/)
  - [Fixing Random, part 9](https://ericlippert.com/2019/02/28/fixing-random-part-9/)
@@ -55,6 +168,8 @@
  - [Fixing Random, part 5](https://ericlippert.com/2019/02/14/fixing-random-part-5/)
  - [Exhausting vs exhaustive](https://ericlippert.com/2019/02/12/exhausting-vs-exhaustive/)
  - [Fixing Random, part 4](https://ericlippert.com/2019/02/11/fixing-random-part-4/)
+ - [Fixing Random, part 3](https://ericlippert.com/2019/02/07/fixing-random-part-3/)
+ - [Fixing Random, part 2](https://ericlippert.com/2019/02/04/fixing-random-part-2/)
 
 ## [January 2019](https://ericlippert.com/2019/01/)
  - [Fixing Random, part 1](https://ericlippert.com/2019/01/31/fixing-random-part-1/)
@@ -64,6 +179,9 @@
  - [Indexer error cases](https://ericlippert.com/2019/01/18/indexer-error-cases/)
  - [Dual numbers, part 4](https://ericlippert.com/2019/01/16/dual-numbers-part-4/)
  - [Dual numbers, part 3](https://ericlippert.com/2019/01/14/dual-numbers-part-3/)
+ - [Dual numbers, part 2](https://ericlippert.com/2019/01/10/dual-numbers-part-2/)
+ - [Dual numbers, part 1](https://ericlippert.com/2019/01/07/dual-numbers-part-1/)
+ - [Accessibility of nested classes](https://ericlippert.com/2019/01/02/accessibility-of-nested-classes/)
 
 ## [December 2018](https://ericlippert.com/2018/12/)
  - [Removing a recursion in Python, part 2](https://ericlippert.com/2018/12/17/removing-a-recursion-in-python-part-2/)
@@ -77,6 +195,7 @@
  - [Anti-unification, part 6](https://ericlippert.com/2018/11/07/anti-unification-part-6/)
  - [Anti-unification, part 5](https://ericlippert.com/2018/11/06/anti-unification-part-5/)
  - [Anti-unification, part 4](https://ericlippert.com/2018/11/05/anti-unification-part-4/)
+ - [Anti-unification, part 3](https://ericlippert.com/2018/11/02/anti-unification-part-3/)
 
 ## [October 2018](https://ericlippert.com/2018/10/)
  - [Anti-unification, part 2](https://ericlippert.com/2018/10/31/anti-unification-part-2/)
@@ -100,6 +219,7 @@
  - [Why should I be worried about dying?](https://ericlippert.com/2017/02/13/why-should-i-be-worried-about-dying/)
  - [Excessive explanation, part seventeen](https://ericlippert.com/2017/02/09/excessive-explanation-part-seventeen/)
  - [Excessive explanation, part sixteen](https://ericlippert.com/2017/02/06/excessive-explanation-part-sixteen/)
+ - [Excessive explanation, part fifteen](https://ericlippert.com/2017/02/02/excessive-explanation-part-fifteen/)
 
 ## [January 2017](https://ericlippert.com/2017/01/)
  - [Excessive explanation, part fourteen](https://ericlippert.com/2017/01/30/excessive-explanation-part-fourteen/)
@@ -109,6 +229,7 @@
  - [Excessive explanation, part eleven](https://ericlippert.com/2017/01/17/excessive-explanation-part-eleven/)
  - [Excessive explanation, part ten](https://ericlippert.com/2017/01/12/excessive-explanation-part-ten/)
  - [Excessive explanation, part nine](https://ericlippert.com/2017/01/09/excessive-explanation-part-nine/)
+ - [Excessive explanation, part eight](https://ericlippert.com/2017/01/05/excessive-explanation-part-eight/)
 
 ## [December 2016](https://ericlippert.com/2016/12/)
  - [Excessive explanation, part seven](https://ericlippert.com/2016/12/22/excessive-explanation-part-seven/)
@@ -118,6 +239,8 @@
  - [Excessive explanation, part four](https://ericlippert.com/2016/12/12/excessive-explanation-part-four/)
  - [Excessive explanation, part three](https://ericlippert.com/2016/12/08/excessive-explanation-part-three/)
  - [Impactfulness](https://ericlippert.com/2016/12/07/impactfulness/)
+ - [I’m on fire!](https://ericlippert.com/2016/12/06/im-on-fire/)
+ - [Excessive explanation, part two](https://ericlippert.com/2016/12/05/excessive-explanation-part-two/)
 
 ## [November 2016](https://ericlippert.com/2016/11/)
  - [Excessive explanation, part one](https://ericlippert.com/2016/11/30/4498/)
@@ -137,6 +260,9 @@
  - [Drafty cave](https://ericlippert.com/2016/04/20/drafty-cave/)
  - [Twisting passage](https://ericlippert.com/2016/04/18/twisting-passage/)
  - [Mirror room](https://ericlippert.com/2016/04/15/mirror-room/)
+ - [Hades](https://ericlippert.com/2016/04/13/hades/)
+ - [Entrance to Hades](https://ericlippert.com/2016/04/11/entrance-to-hades/)
+ - [Windy cave](https://ericlippert.com/2016/04/08/windy-cave/)
 
 ## [March 2016](https://ericlippert.com/2016/03/)
  - [Reservoir North](https://ericlippert.com/2016/03/30/reservoir-north/)
@@ -146,6 +272,9 @@
  - [Reservoir south](https://ericlippert.com/2016/03/21/reservoir-south/)
  - [Studio](https://ericlippert.com/2016/03/18/studio/)
  - [Sandy cave](https://ericlippert.com/2016/03/16/sandy-cave/)
+ - [Aragain falls](https://ericlippert.com/2016/03/14/aragain-falls/)
+ - [End of rainbow](https://ericlippert.com/2016/03/11/end-of-rainbow/)
+ - [Canyon view](https://ericlippert.com/2016/03/09/canyon-view/)
 
 ## [February 2016](https://ericlippert.com/2016/02/)
  - [Temple](https://ericlippert.com/2016/02/29/temple/)
@@ -155,6 +284,9 @@
  - [Cellar](https://ericlippert.com/2016/02/19/cellar/)
  - [Attic](https://ericlippert.com/2016/02/17/attic/)
  - [Living room](https://ericlippert.com/2016/02/15/living-room/)
+ - [Kitchen](https://ericlippert.com/2016/02/12/kitchen/)
+ - [Behind house](https://ericlippert.com/2016/02/10/behind-house/)
+ - [Up a tree](https://ericlippert.com/2016/02/09/up-a-tree/)
 
 ## [January 2016](https://ericlippert.com/2016/01/)
  - [Functional style follow-up](https://ericlippert.com/2016/01/14/functional-style-follow-up/)
@@ -199,6 +331,7 @@
  - [Wizards and warriors, part five](https://ericlippert.com/2015/05/11/wizards-and-warriors-part-five/)
  - [Flat-pack sawhorses](https://ericlippert.com/2015/05/08/flat-pack-sawhorses/)
  - [Wizards and warriors, part four](https://ericlippert.com/2015/05/07/wizards-and-warriors-part-four/)
+ - [Wizards and warriors, part three](https://ericlippert.com/2015/05/04/wizards-and-warriors-part-three/)
 
 ## [April 2015](https://ericlippert.com/2015/04/)
  - [Wizards and warriors, part two](https://ericlippert.com/2015/04/30/wizards-and-warriors-part-two/)
@@ -208,6 +341,8 @@
  - [Defying gravity](https://ericlippert.com/2015/04/17/defying-gravity/)
  - [Interview with dev.life](https://ericlippert.com/2015/04/14/interview-with-dev-life/)
  - [What is the unchecked keyword good for? Part two](https://ericlippert.com/2015/04/13/what-is-the-unchecked-keyword-good-for-part-two/)
+ - [What is the unchecked keyword good for? Part one](https://ericlippert.com/2015/04/09/what-is-the-unchecked-keyword-good-for-part-one/)
+ - [Too many hobbies](https://ericlippert.com/2015/04/07/too-many-hobbies/)
 
 ## [November 2014](https://ericlippert.com/2014/11/)
  - [Nostalgia, horror, and a very old bug](https://ericlippert.com/2014/11/14/nostalgia-horror-and-a-very-old-bug/)
@@ -224,6 +359,8 @@
  - [Producing combinations, part three](https://ericlippert.com/2014/10/20/producing-combinations-part-three/)
  - [Producing combinations, part two](https://ericlippert.com/2014/10/16/producing-combinations-part-two/)
  - [Producing combinations, part one](https://ericlippert.com/2014/10/13/producing-combinations-part-one/)
+ - [Confusing errors for a confusing feature, part three](https://ericlippert.com/2014/10/03/confusing-errors-for-a-confusing-feature-part-three/)
+ - [ATBG: Better than nothing](https://ericlippert.com/2014/10/01/better-than-nothing/)
 
 ## [September 2014](https://ericlippert.com/2014/09/)
  - [Confusing errors for a confusing feature, part two](https://ericlippert.com/2014/09/29/confusing-errors-for-a-confusing-feature-part-two/)
@@ -268,15 +405,19 @@
  - [ATBG: Warnings vs errors](https://ericlippert.com/2014/04/23/atbg-warnings-vs-errors/)
  - [Heartbleed and static analysis](https://ericlippert.com/2014/04/15/heartbleed-and-static-analysis/)
  - [Standard and Daylight are different](https://ericlippert.com/2014/04/14/standard-and-daylight-are-different/)
+ - [ATBG: Why UTF-16?](https://ericlippert.com/2014/04/09/atbg-why-utf-16/)
+ - [Speaking in Los Angeles Monday](https://ericlippert.com/2014/04/04/speaking-in-los-angeles-monday/)
+ - [C# and VB are open sourced](https://ericlippert.com/2014/04/03/c-and-vb-are-open-sourced/)
 
 ## [March 2014](https://ericlippert.com/2014/03/)
- - [ATBG: Reordering optimizations](https://ericlippert.com/2014/03/26/reordering-optimizations/)
+ - [Reordering optimizations](https://ericlippert.com/2014/03/26/reordering-optimizations/)
  - [Find a simpler problem](https://ericlippert.com/2014/03/21/find-a-simpler-problem/)
  - [ATBG: Chinese edition](https://ericlippert.com/2014/03/17/atbg-chinese-edition/)
- - [ATBG: Can I skip the lock when reading an integer?](https://ericlippert.com/2014/03/12/can-i-skip-the-lock-when-reading-an-integer/)
+ - [Can I skip the lock when reading an integer?](https://ericlippert.com/2014/03/12/can-i-skip-the-lock-when-reading-an-integer/)
  - [High Performance Windows Store Apps](https://ericlippert.com/2014/03/07/high-performance-windows-store-apps/)
  - [Living with unchecked exceptions, part two](https://ericlippert.com/2014/03/06/living-with-unchecked-exceptions-part-two/)
  - [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
+ - [Living with unchecked exceptions](https://ericlippert.com/2014/03/03/living-with-unchecked-exceptions/)
 
 ## [February 2014](https://ericlippert.com/2014/02/)
  - [Even more video](https://ericlippert.com/2014/02/28/even-more-video/)
@@ -310,6 +451,8 @@
  - [Coverity analysis and FXCOP](https://ericlippert.com/2013/11/19/coverity-analysis-and-fxcop/)
  - [A practical use of multiplicative inverses](https://ericlippert.com/2013/11/14/a-practical-use-of-multiplicative-inverses/)
  - [Math from scratch, part thirteen: multiplicative inverses](https://ericlippert.com/2013/11/12/math-from-scratch-part-thirteen-multiplicative-inverses/)
+ - [ATBG: de facto and de jure reachability](https://ericlippert.com/2013/11/06/bug-guys-reachability/)
+ - [Math from scratch, part twelve: Euclid and Bézout](https://ericlippert.com/2013/11/04/math-from-scratch-part-twelve-euclid-and-bezout/)
 
 ## [October 2013](https://ericlippert.com/2013/10/)
  - [Math from scratch, part eleven: integer division](https://ericlippert.com/2013/10/31/math-from-scratch-part-eleven-integer-division/)
@@ -319,6 +462,9 @@
  - [Math from scratch, part eight: integers](https://ericlippert.com/2013/10/17/math-from-scratch-part-eight-integers/)
  - [Math from scratch, part seven: division and remainder](https://ericlippert.com/2013/10/14/math-from-scratch-part-seven-division-and-remainder/)
  - [Happy blogoversary](https://ericlippert.com/2013/10/11/happy-blogoversary/)
+ - [ATBG: interfaces and increments](https://ericlippert.com/2013/10/09/bug-guys-interfaces/)
+ - [Math from scratch, part six: comparisons](https://ericlippert.com/2013/10/07/math-from-scratch-part-six-comparisons/)
+ - [Math from scratch, part five: natural subtraction](https://ericlippert.com/2013/10/03/math-from-scratch-part-five/)
 
 ## [September 2013](https://ericlippert.com/2013/09/)
  - [Math from scratch, part four: natural multiplication](https://ericlippert.com/2013/09/30/math-from-scratch-part-four/)
@@ -328,6 +474,7 @@
  - [Math from scratch, part one](https://ericlippert.com/2013/09/16/math-from-scratch-part-one/)
  - [ATBG: Reflection and default parameters](https://ericlippert.com/2013/09/11/reflection-and-default-parameters/)
  - [Verbatim identifiers](https://ericlippert.com/2013/09/09/verbatim-identifiers/)
+ - [Higgledy piggledy](https://ericlippert.com/2013/09/06/higgledy-piggledy/)
 
 ## [August 2013](https://ericlippert.com/2013/08/)
  - [ATBG: guess the type](https://ericlippert.com/2013/08/28/bug-guys-guess-the-type/)
@@ -342,6 +489,9 @@
  - [Ask the Bug Guys](https://ericlippert.com/2013/07/17/ask-the-bug-guys/)
  - [Why are generic constraints not inherited?](https://ericlippert.com/2013/07/15/why-are-generic-constraints-not-inherited/)
  - [Benchmarking mistakes, part three](https://ericlippert.com/2013/07/09/benchmarking-mistakes-part-three/)
+ - [The psychology of C# analysis](https://ericlippert.com/2013/07/08/the-psychology-of-c-analysis/)
+ - [The answer to the string concatenation puzzle](https://ericlippert.com/2013/07/05/the-answer-to-the-string-concatenation-puzzle/)
+ - [Like Eric Lippert, Neil Gaiman enjoys soup](https://ericlippert.com/2013/07/03/like-eric-lippert-neil-gaiman-enjoys-soup/)
 
 ## [June 2013](https://ericlippert.com/2013/06/)
  - [String concatenation behind the scenes, part two](https://ericlippert.com/2013/06/24/string-concatenation-behind-the-scenes-part-two/)
@@ -359,6 +509,9 @@
  - [What is lexical scoping?](https://ericlippert.com/2013/05/20/what-is-lexical-scoping/)
  - [Quality assurance fail](https://ericlippert.com/2013/05/17/quality-assurance-fail/)
  - [Spot the defect: rounding, part two](https://ericlippert.com/2013/05/16/spot-the-defect-rounding-part-two/)
+ - [Benchmarking mistakes, part one](https://ericlippert.com/2013/05/14/benchmarking-mistakes-part-one/)
+ - [Spot the defect: rounding](https://ericlippert.com/2013/05/13/spot-the-defect-rounding/)
+ - [I have a mysterious fifth sense (rerun)](https://ericlippert.com/2013/05/10/i-have-a-mysterious-fifth-sense/)
 
 ## [April 2013](https://ericlippert.com/2013/04/)
  - [Producing permutations, part five](https://ericlippert.com/2013/04/29/producing-permutations-part-five/)
@@ -368,6 +521,9 @@
  - [Producing permutations, part one](https://ericlippert.com/2013/04/15/producing-permutations-part-one/)
  - [That’s a big transistor](https://ericlippert.com/2013/04/12/thats-a-big-transistor/)
  - [Building a tabletop coilgun](https://ericlippert.com/2013/04/09/tabletop-coilgun/)
+ - [Thumbs up](https://ericlippert.com/2013/04/05/thumbs-up/)
+ - [What does the langversion switch do?](https://ericlippert.com/2013/04/04/what-does-the-langversion-switch-do/)
+ - [Monads, part thirteen](https://ericlippert.com/2013/04/03/monads-part-thirteen/)
 
 ## [March 2013](https://ericlippert.com/2013/03/)
  - [Monads, part eleven](https://ericlippert.com/2013/03/28/monads-part-eleven/)
@@ -377,6 +533,9 @@
  - [Monads, part eight](https://ericlippert.com/2013/03/18/monads-part-eight/)
  - [Monads, part seven](https://ericlippert.com/2013/03/14/monads-part-seven/)
  - [Monads, part six](https://ericlippert.com/2013/03/11/monads-part-six/)
+ - [Whidbey Island and bagel mathematics (rerun)](https://ericlippert.com/2013/03/08/bagel-mathematics/)
+ - [Monads, part five](https://ericlippert.com/2013/03/07/monads-part-five/)
+ - [Monads, part four](https://ericlippert.com/2013/03/04/monads-part-four/)
 
 ## [February 2013](https://ericlippert.com/2013/02/)
  - [Monads, part three](https://ericlippert.com/2013/02/28/monads-part-three/)
@@ -386,6 +545,9 @@
  - [Static constructors, part three](https://ericlippert.com/2013/02/14/static-constructors-part-three/)
  - [Free beer!](https://ericlippert.com/2013/02/13/free-beer/)
  - [Static constructors, part two](https://ericlippert.com/2013/02/11/static-constructors-part-two/)
+ - [Digital pain (rerun)](https://ericlippert.com/2013/02/08/digital-pain/)
+ - [Static constructors, part one](https://ericlippert.com/2013/02/06/static-constructors-part-one/)
+ - [The view from Columbia Center](https://ericlippert.com/2013/02/04/columbia-center/)
 
 ## [January 2013](https://ericlippert.com/2013/01/)
  - [The no-lock deadlock](https://ericlippert.com/2013/01/31/the-no-lock-deadlock/)
@@ -395,6 +557,9 @@
  - [Five-dollar words for programmers: elision](https://ericlippert.com/2013/01/24/five-dollar-words-for-programmers-elision/)
  - [Nullable micro-optimizations, part eight](https://ericlippert.com/2013/01/21/nullable-micro-optimization-part-eight/)
  - [Hummingbird PSA](https://ericlippert.com/2013/01/18/hummingbird-psa/)
+ - [Nullable micro-optimizations, part seven](https://ericlippert.com/2013/01/17/nullable-micro-optimizations-part-seven/)
+ - [Nullable micro-optimizations, part six](https://ericlippert.com/2013/01/15/nullable-micro-optimizations-part-six/)
+ - [First day](https://ericlippert.com/2013/01/14/first-day/)
 
 ## [December 2012](https://ericlippert.com/2012/12/)
  - [Nullable micro-optimization, part two](https://ericlippert.com/2012/12/27/nullable-micro-optimization-part-two/)
@@ -432,6 +597,8 @@
  - [Mizzou castable refractory instructions](https://ericlippert.com/2012/08/21/mizzou-castable-refractory-instructions/)
  - [Wackiness ensues](https://ericlippert.com/2012/08/17/wackiness-ensues/)
  - [Out parameters and LINQ do not mix](https://ericlippert.com/2012/08/14/out-parameters-and-linq-do-not-mix/)
+ - [That’s a big anvil](https://ericlippert.com/2012/08/14/thats-a-big-anvil/)
+ - [What If The Crucible Fails?](https://ericlippert.com/2012/08/02/what-if-the-crucible-fails/)
 
 ## [July 2012](https://ericlippert.com/2012/07/)
  - [Refractory cement](https://ericlippert.com/2012/07/28/refractory-cement/)
@@ -441,6 +608,7 @@
  - [Should C# warn on null dereference?](https://ericlippert.com/2012/07/17/should-c-warn-on-null-dereference/)
  - [Safety Third](https://ericlippert.com/2012/07/16/safety-third/)
  - [Fabulous Adventures In Casting](https://ericlippert.com/2012/07/14/fabulous-adventures-in-casting/)
+ - [When is a cast not a cast?](https://ericlippert.com/2012/07/10/696/)
 
 ## [June 2012](https://ericlippert.com/2012/06/)
  - [The best advice I ever got](https://ericlippert.com/2012/06/27/the-best-advice-i-ever-got/)
@@ -491,6 +659,7 @@
 ## [May 2011](https://ericlippert.com/2011/05/)
  - [Atomicity, volatility and immutability are different, part two](https://ericlippert.com/2011/05/31/atomicity-volatility-and-immutability-are-different-part-two/)
  - [Atomicity, volatility and immutability are different, part one](https://ericlippert.com/2011/05/26/atomicity-volatility-and-immutability-are-different-part-one/)
+ - [Read-only and threadsafe are different](https://ericlippert.com/2011/05/23/read-only-and-threadsafe-are-different/)
  - [Optional argument corner cases, part four](https://ericlippert.com/2011/05/19/optional-argument-corner-cases-part-four/)
  - [Optional argument corner cases, part three](https://ericlippert.com/2011/05/16/optional-argument-corner-cases-part-three/)
  - [Optional argument corner cases, part two](https://ericlippert.com/2011/05/12/optional-argument-corner-cases-part-two/)
@@ -512,11 +681,11 @@
  - [Looking inside a double](https://ericlippert.com/2011/02/17/looking-inside-a-double/)
  - [What would Feynman do?](https://ericlippert.com/2011/02/14/what-would-feynman-do/)
  - [Strange but legal](https://ericlippert.com/2011/02/07/strange-but-legal/)
+ - [Curiouser and curiouser](https://ericlippert.com/2011/02/02/curiouser-and-curiouser/)
 
 ## [January 2011](https://ericlippert.com/2011/01/)
  - [Bad comparisons, part four](https://ericlippert.com/2011/01/31/bad-comparisons-part-four/)
- -Can't call method "text" on an undefined value at create_index.pl line 15.
- [Bad comparisons, part three](https://ericlippert.com/2011/01/31/bad-comparisons-part-three/)
+ - [Bad comparisons, part three](https://ericlippert.com/2011/01/31/bad-comparisons-part-three/)
  - [Bad comparisons, part two](https://ericlippert.com/2011/01/24/bad-comparisons-part-two/)
  - [Bad comparisons, part one](https://ericlippert.com/2011/01/20/bad-comparisons-part-one/)
 
@@ -525,9 +694,16 @@
 
 ## [October 2010](https://ericlippert.com/2010/10/)
  - [Debunking another myth about value types](https://ericlippert.com/2010/10/11/debunking-another-myth-about-value-types/)
+ - [No backtracking, part two](https://ericlippert.com/2010/10/07/no-backtracking-part-two/)
+ - [No backtracking, part one](https://ericlippert.com/2010/10/04/no-backtracking-part-one/)
+
+## [September 2010](https://ericlippert.com/2010/09/)
+ - [The Truth About Value Types](https://ericlippert.com/2010/09/30/the-truth-about-value-types/)
+ - [Is is as or is as is?](https://ericlippert.com/2010/09/16/is-is-as-or-is-as-is/)
 
 ## [June 2010](https://ericlippert.com/2010/06/)
  - [Computing a Cartesian product with LINQ](https://ericlippert.com/2010/06/28/computing-a-cartesian-product-with-linq/)
+ - [Don’t repeat yourself; consts are already static](https://ericlippert.com/2010/06/10/dont-repeat-yourself-consts-are-already-static/)
 
 ## [March 2010](https://ericlippert.com/2010/03/)
  - [Knights, knaves, protected and internal](https://ericlippert.com/2010/03/25/knights-knaves-protected-and-internal/)
@@ -537,6 +713,7 @@
  - [Continuing to an outer loop](https://ericlippert.com/2010/01/11/continuing-to-an-outer-loop/)
 
 ## [November 2009](https://ericlippert.com/2009/11/)
+ - [What’s the difference between covariance and assignment compatibility?](https://ericlippert.com/2009/11/30/whats-the-difference-between-covariance-and-assignment-compatibility/)
  - [Closing over the loop variable considered harmful, part two](https://ericlippert.com/2009/11/16/closing-over-the-loop-variable-considered-harmful-part-two/)
  - [Closing over the loop variable considered harmful, part one](https://ericlippert.com/2009/11/12/closing-over-the-loop-variable-considered-harmful-part-one/)
  - [Simple names are not so simple, part two](https://ericlippert.com/2009/11/05/simple-names-are-not-so-simple-part-two/)
@@ -544,6 +721,7 @@
 
 ## [October 2009](https://ericlippert.com/2009/10/)
  - [Begging the question](https://ericlippert.com/2009/10/22/begging-the-question/)
+ - [What’s the difference between “as” and cast operators?](https://ericlippert.com/2009/10/08/whats-the-difference-between-as-and-cast-operators/)
 
 ## [September 2009](https://ericlippert.com/2009/09/)
  - [String interning and String.Empty](https://ericlippert.com/2009/09/28/string-interning-and-string-empty/)
@@ -559,14 +737,24 @@
  - [Alas, Smith and Jones](https://ericlippert.com/2009/06/04/alas-smith-and-jones/)
 
 ## [May 2009](https://ericlippert.com/2009/05/)
+ - [foreach vs ForEach](https://ericlippert.com/2009/05/18/foreach-vs-foreach/)
  - [Reserved and contextual keywords](https://ericlippert.com/2009/05/11/reserved-and-contextual-keywords/)
+ - [The Stack Is An Implementation Detail, Part Two](https://ericlippert.com/2009/05/04/the-stack-is-an-implementation-detail-part-two/)
+
+## [April 2009](https://ericlippert.com/2009/04/)
+ - [The Stack Is An Implementation Detail, Part One](https://ericlippert.com/2009/04/27/the-stack-is-an-implementation-detail-part-one/)
+ - [Restating the problem](https://ericlippert.com/2009/04/15/restating-the-problem/)
 
 ## [March 2009](https://ericlippert.com/2009/03/)
  - [Locks and exceptions do not mix](https://ericlippert.com/2009/03/06/locks-and-exceptions-do-not-mix/)
  - [Representation and identity](https://ericlippert.com/2009/03/03/representation-and-identity/)
 
+## [February 2009](https://ericlippert.com/2009/02/)
+ - [References are not addresses](https://ericlippert.com/2009/02/17/references-are-not-addresses/)
+
 ## [January 2009](https://ericlippert.com/2009/01/)
  - [Long division](https://ericlippert.com/2009/01/28/long-division/)
+ - [Why no var on fields?](https://ericlippert.com/2009/01/26/why-no-var-on-fields/)
 
 ## [September 2008](https://ericlippert.com/2008/09/)
  - [Vexing exceptions](https://ericlippert.com/2008/09/10/vexing-exceptions/)
@@ -574,18 +762,111 @@
 ## [May 2008](https://ericlippert.com/2008/05/)
  - [Precedence vs associativity vs order](https://ericlippert.com/2008/05/23/precedence-vs-associativity-vs-order/)
  - [Mutating readonly structs](https://ericlippert.com/2008/05/14/mutating-readonly-structs/)
+ - [Covariance and Contravariance, Part 11: To infinity, but not beyond](https://ericlippert.com/2008/05/07/covariance-and-contravariance-part-11-to-infinity-but-not-beyond/)
+
+## [February 2008](https://ericlippert.com/2008/02/)
+ - [How to not get a question answered](https://ericlippert.com/2008/02/20/how-to-not-get-a-question-answered/)
+ - [Why Do Initializers Run In The Opposite Order As Constructors? Part Two](https://ericlippert.com/2008/02/18/why-do-initializers-run-in-the-opposite-order-as-constructors-part-two/)
+ - [Why Do Initializers Run In The Opposite Order As Constructors? Part One](https://ericlippert.com/2008/02/15/why-do-initializers-run-in-the-opposite-order-as-constructors-part-one/)
+ - [Immutability in C# Part Eleven: A working double-ended queue](https://ericlippert.com/2008/02/12/immutability-in-c-part-eleven-a-working-double-ended-queue/)
+
+## [January 2008](https://ericlippert.com/2008/01/)
+ - [Immutability in C# Part Ten: A double-ended queue](https://ericlippert.com/2008/01/22/immutability-in-c-part-ten-a-double-ended-queue/)
+ - [Immutability in C# Part Nine: Academic? Plus my AVL tree implementation](https://ericlippert.com/2008/01/21/immutability-in-c-part-nine-academic-plus-my-avl-tree-implementation/)
+ - [Immutability in C# Part Eight: Even More On Binary Trees](https://ericlippert.com/2008/01/18/immutability-in-c-part-eight-even-more-on-binary-trees/)
+
+## [December 2007](https://ericlippert.com/2007/12/)
+ - [Immutability in C# Part Seven: More on Binary Trees](https://ericlippert.com/2007/12/19/immutability-in-c-part-seven-more-on-binary-trees/)
+ - [Immutability in C# Part Six: A Simple Binary Tree](https://ericlippert.com/2007/12/18/immutability-in-c-part-six-a-simple-binary-tree/)
+ - [Immutability in C# Part Five: LOLZ!](https://ericlippert.com/2007/12/13/immutability-in-c-part-five-lolz/)
+ - [Immutability in C# Part Four: An Immutable Queue](https://ericlippert.com/2007/12/10/immutability-in-c-part-four-an-immutable-queue/)
+ - [Immutability in C# Part Three: A Covariant Immutable Stack](https://ericlippert.com/2007/12/06/immutability-in-c-part-three-a-covariant-immutable-stack/)
+ - [Immutability in C# Part Two: A Simple Immutable Stack](https://ericlippert.com/2007/12/04/immutability-in-c-part-two-a-simple-immutable-stack/)
+
+## [November 2007](https://ericlippert.com/2007/11/)
+ - [Immutability in C# Part One: Kinds of Immutability](https://ericlippert.com/2007/11/13/immutability-in-c-part-one-kinds-of-immutability/)
+
+## [October 2007](https://ericlippert.com/2007/10/)
+ - [Covariance and Contravariance in C#, Part 3: Method Group Conversion Variance](https://ericlippert.com/2007/10/19/covariance-and-contravariance-in-c-part-3-method-group-conversion-variance/)
+ - [Covariance and Contravariance in C#, Part 2: Array Covariance](https://ericlippert.com/2007/10/17/covariance-and-contravariance-in-c-part-2-array-covariance/)
+ - [Covariance and contravariance in C#, part 1](https://ericlippert.com/2007/10/16/covariance-and-contravariance-in-c-part-1/)
+ - [Packet Gnomes](https://ericlippert.com/2007/10/11/packet-gnomes/)
 
 ## [August 2007](https://ericlippert.com/2007/08/)
  - [C++ and the pit of despair](https://ericlippert.com/2007/08/14/c-and-the-pit-of-despair/)
 
+## [July 2007](https://ericlippert.com/2007/07/)
+ - [An inheritance puzzle, part two](https://ericlippert.com/2007/07/30/an-inheritance-puzzle-part-two/)
+ - [An inheritance puzzle, part one](https://ericlippert.com/2007/07/27/an-inheritance-puzzle-part-one/)
+
+## [May 2007](https://ericlippert.com/2007/05/)
+ - [Why are overloaded operators always static in C#?](https://ericlippert.com/2007/05/14/why-are-overloaded-operators-always-static-in-c/)
+
 ## [November 2006](https://ericlippert.com/2006/11/)
  - [A face made for email, part three](https://ericlippert.com/2006/11/17/a-face-made-for-email-part-three/)
 
+## [April 2006](https://ericlippert.com/2006/04/)
+ - [Odious ambiguous overloads, part two](https://ericlippert.com/2006/04/06/odious-ambiguous-overloads-part-two/)
+ - [Odious ambiguous overloads, part one](https://ericlippert.com/2006/04/05/odious-ambiguous-overloads-part-one/)
+
+## [October 2005](https://ericlippert.com/2005/10/)
+ - [Five-Dollar Words for Programmers, Part One: Idempotence](https://ericlippert.com/2005/10/26/five-dollar-words-for-programmers-part-one-idempotence/)
+ - [Floating Point Arithmetic, Part One](https://ericlippert.com/2005/10/01/floating-point-arithmetic-part-one/)
+
+## [September 2005](https://ericlippert.com/2005/09/)
+ - [250% of What, Exactly?](https://ericlippert.com/2005/09/01/250-of-what-exactly/)
+
+## [August 2004](https://ericlippert.com/2004/08/)
+ - [The attribute of manliness](https://ericlippert.com/2004/08/18/the-attribute-of-manliness/)
+
 ## [July 2004](https://ericlippert.com/2004/07/)
  - [What I did on my summer vacation](https://ericlippert.com/2004/07/12/what-i-did-on-my-summer-vacation/)
+
+## [April 2004](https://ericlippert.com/2004/04/)
+ - [Customer service is not rocket science](https://ericlippert.com/2004/04/04/customer-service-is-not-rocket-science/)
 
 ## [December 2003](https://ericlippert.com/2003/12/)
  - [Multi-cast delegates the evil way](https://ericlippert.com/2003/12/12/multi-cast-delegates-the-evil-way/)
  - [The JScript Type System Part Eight: The Last Blog Entry About Arrays, I Promise](https://ericlippert.com/2003/12/05/the-jscript-type-system-part-eight-the-last-blog-entry-about-arrays-i-promise/)
  - [A grammatical aside](https://ericlippert.com/2003/12/02/a-grammatical-aside/)
  - [Six out of ten ain’t bad](https://ericlippert.com/2003/12/02/six-out-of-ten-aint-bad/)
+ - [Speeding can slow you down](https://ericlippert.com/2003/12/01/speeding-can-slow-you-down/)
+
+## [November 2003](https://ericlippert.com/2003/11/)
+ - [Experience required](https://ericlippert.com/2003/11/24/experience-required/)
+ - [The JScript Type System Part Seven: Yeah, you’ve probably guessed that I wrote the array stuff](https://ericlippert.com/2003/11/21/the-jscript-type-system-part-seven-yeah-youve-probably-guessed-that-i-wrote-the-array-stuff/)
+ - [Thin to my chagrin](https://ericlippert.com/2003/11/15/thin-to-my-chagrin/)
+ - [The JScript Type System, Part Six: Even more on arrays in JScript .NET](https://ericlippert.com/2003/11/14/the-jscript-type-system-part-six-even-more-on-arrays-in-jscript-net/)
+ - [The JScript Type System, Part Five: More On Arrays In JScript .NET](https://ericlippert.com/2003/11/12/the-jscript-type-system-part-five-more-on-arrays-in-jscript-net/)
+ - [The JScript Type System, Part Four: JScript .NET Arrays](https://ericlippert.com/2003/11/10/the-jscript-type-system-part-four-jscript-net-arrays/)
+ - [The JScript Type System, Part Three: If It Walks Like A Duck…](https://ericlippert.com/2003/11/08/the-jscript-type-system-part-three-if-it-walks-like-a-duck/)
+ - [The JScript Type System, Part Two: Prototypes and constructors](https://ericlippert.com/2003/11/06/the-jscript-type-system-part-two-prototypes-and-constructors/)
+ - [What is the Matrix?](https://ericlippert.com/2003/11/05/what-is-the-matrix/)
+ - [The JScript Type System, part one](https://ericlippert.com/2003/11/05/the-jscript-type-system-part-one/)
+
+## [October 2003](https://ericlippert.com/2003/10/)
+ - [Functions are not frames](https://ericlippert.com/2003/10/31/functions-are-not-frames/)
+ - [Global State On Servers Considered Harmful](https://ericlippert.com/2003/10/29/global-state-on-servers-considered-harmful/)
+ - [How many Microsoft employees does it take to change a lightbulb?](https://ericlippert.com/2003/10/28/how-many-microsoft-employees-does-it-take-to-change-a-lightbulb/)
+ - [JScript Goes All To Pieces](https://ericlippert.com/2003/10/27/jscript-goes-all-to-pieces/)
+ - [The Most Boring Story Ever](https://ericlippert.com/2003/10/27/the-most-boring-story-ever/)
+ - [Compatibility vs. Performance](https://ericlippert.com/2003/10/24/compatibility-vs-performance/)
+ - [Michael’s Security Blog is online](https://ericlippert.com/2003/10/23/michaels-security-blog-is-online/)
+ - [Attention passengers: Flight 0703 is also known as Flight 451](https://ericlippert.com/2003/10/23/attention-passengers-flight-0703-is-also-known-as-flight-451/)
+ - [Making Sense of HRESULTS](https://ericlippert.com/2003/10/22/making-sense-of-hresults/)
+ - [Constant Folding and Partial Evaluation](https://ericlippert.com/2003/10/21/constant-folding-and-partial-evaluation/)
+
+## [September 2003](https://ericlippert.com/2003/09/)
+ - [A Whole Lot Of Nothing](https://ericlippert.com/2003/09/30/a-whole-lot-of-nothing/)
+ - [In, Out, In-Out, Make Up Your Mind Already](https://ericlippert.com/2003/09/29/in-out-in-out-make-up-your-mind-already/)
+ - [What could numeric rounding possibly have to do with MS-DOS?](https://ericlippert.com/2003/09/26/what-could-numeric-rounding-possibly-have-to-do-with-ms-dos/)
+ - [Bankers’ Rounding](https://ericlippert.com/2003/09/26/bankers-rounding/)
+ - [More on Certificates and Trust Decisions](https://ericlippert.com/2003/09/25/more-on-certificates-and-trust-decisions/)
+ - [Evil Security Twin Powers… Activate!](https://ericlippert.com/2003/09/25/evil-security-twin-powers-activate/)
+ - [I’m a traveling man, don’t tie me down](https://ericlippert.com/2003/09/24/im-a-traveling-man-dont-tie-me-down/)
+ - [Error messages considered harmful](https://ericlippert.com/2003/09/24/error-messages-considered-harmful/)
+ - [They call me “LoadPicture Lippert”](https://ericlippert.com/2003/09/23/they-call-me-loadpicture-lippert/)
+ - [Hi, I’m Eric and I’ll be your software developer this evening](https://ericlippert.com/2003/09/23/hi-im-eric-and-ill-be-your-software-developer-this-evening/)
+
+## [August 2003](https://ericlippert.com/2003/08/)
+ - [Fabulous Adventures!](https://ericlippert.com/2003/08/30/fabulous-adventures-2/)
