@@ -823,7 +823,7 @@
  - [ ] [What I did on my summer vacation](https://ericlippert.com/2004/07/12/what-i-did-on-my-summer-vacation/)
 
 ## [April 2004](https://ericlippert.com/2004/04/)
- - [ ] [Customer service is not rocket science](https://ericlippert.com/2004/04/04/customer-service-is-not-rocket-science/)
+ - [x] [Customer service is not rocket science](https://ericlippert.com/2004/04/04/customer-service-is-not-rocket-science/)
 
 ## [December 2003](https://ericlippert.com/2003/12/)
  - [ ] [Multi-cast delegates the evil way](https://ericlippert.com/2003/12/12/multi-cast-delegates-the-evil-way/)
