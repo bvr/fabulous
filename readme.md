@@ -96,13 +96,13 @@
 
 ## [February 2020](https://ericlippert.com/2020/02/)
  - [ ] [Hundred year mistakes](https://ericlippert.com/2020/02/27/hundred-year-mistakes/)
- - [ ] [Building a fake company](https://ericlippert.com/2020/02/24/building-a-fake-company/)
+ - [x] [Building a fake company](https://ericlippert.com/2020/02/24/building-a-fake-company/)
 
 ## [January 2020](https://ericlippert.com/2020/01/)
- - [ ] [A Picard Easter egg](https://ericlippert.com/2020/01/24/a-picard-easter-egg/)
+ - [x] [A Picard Easter egg](https://ericlippert.com/2020/01/24/a-picard-easter-egg/)
 
 ## [December 2019](https://ericlippert.com/2019/12/)
- - [ ] [Work and success](https://ericlippert.com/2019/12/30/work-and-success/)
+ - [x] [Work and success](https://ericlippert.com/2019/12/30/work-and-success/)
  - [ ] [Fixing Random, bonus episode 3](https://ericlippert.com/2019/12/11/fixing-random-bonus-episode-3/)
 
 ## [November 2019](https://ericlippert.com/2019/11/)
