@@ -300,9 +300,9 @@
 
 ## [November 2015](https://ericlippert.com/2015/11/)
  - [ ] [The dedoublifier, part one](https://ericlippert.com/2015/11/30/the-dedoublifier-part-one/)
- - [ ] [Monitor madness, part two](https://ericlippert.com/2015/11/19/monitor-madness-part-two/)
- - [ ] [Monitor madness, part one](https://ericlippert.com/2015/11/16/monitor-madness-part-one/)
- - [ ] [Logical implication](https://ericlippert.com/2015/11/05/logical-implication/)
+ - [x] [Monitor madness, part two](https://ericlippert.com/2015/11/19/monitor-madness-part-two/)
+ - [x] [Monitor madness, part one](https://ericlippert.com/2015/11/16/monitor-madness-part-one/)
+ - [x] [Logical implication](https://ericlippert.com/2015/11/05/logical-implication/)
  - [x] [When would you use & on a bool?](https://ericlippert.com/2015/11/02/when-would-you-use-on-a-bool/)
 
 ## [October 2015](https://ericlippert.com/2015/10/)
