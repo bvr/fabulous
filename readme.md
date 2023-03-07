@@ -290,8 +290,8 @@
 
 ## [January 2016](https://ericlippert.com/2016/01/)
  - [ ] [Functional style follow-up](https://ericlippert.com/2016/01/14/functional-style-follow-up/)
- - [ ] [Space oddity](https://ericlippert.com/2016/01/12/space-oddity/)
- - [ ] [Functional programming for beginners](https://ericlippert.com/2016/01/11/functional-programming-for-beginners/)
+ - [x] [Space oddity](https://ericlippert.com/2016/01/12/space-oddity/)
+ - [x] [Functional programming for beginners](https://ericlippert.com/2016/01/11/functional-programming-for-beginners/)
 
 ## [December 2015](https://ericlippert.com/2015/12/)
  - [ ] [The dedoublifier, part four](https://ericlippert.com/2015/12/10/the-dedoublifier-part-four/)
