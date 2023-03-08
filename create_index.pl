@@ -22,3 +22,4 @@ for my $month ($ua->get($base_url)->res->dom->find('#archives-2 a')->each) {
     }
 }
 
+# TODO: The list of articles is not complete for February 2016 (there is probably adding of articles using javascript)
