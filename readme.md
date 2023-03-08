@@ -239,11 +239,11 @@
  - [ ] [Excessive explanation, part four](https://ericlippert.com/2016/12/12/excessive-explanation-part-four/)
  - [ ] [Excessive explanation, part three](https://ericlippert.com/2016/12/08/excessive-explanation-part-three/)
  - [ ] [Impactfulness](https://ericlippert.com/2016/12/07/impactfulness/)
- - [ ] [I’m on fire!](https://ericlippert.com/2016/12/06/im-on-fire/)
+ - [x] [I’m on fire!](https://ericlippert.com/2016/12/06/im-on-fire/)
  - [ ] [Excessive explanation, part two](https://ericlippert.com/2016/12/05/excessive-explanation-part-two/)
 
 ## [November 2016](https://ericlippert.com/2016/11/)
- - [ ] [Excessive explanation, part one](https://ericlippert.com/2016/11/30/4498/)
+ - [x] [Excessive explanation, part one](https://ericlippert.com/2016/11/30/4498/)
 
 ## [May 2016](https://ericlippert.com/2016/05/)
  - [ ] [Shaft room, again](https://ericlippert.com/2016/05/19/shaft-room-again/)
