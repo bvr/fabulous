@@ -340,8 +340,8 @@
  - [ ] [Long division, part two](https://ericlippert.com/2015/04/20/long-division-part-two/)
  - [ ] [Defying gravity](https://ericlippert.com/2015/04/17/defying-gravity/)
  - [ ] [Interview with dev.life](https://ericlippert.com/2015/04/14/interview-with-dev-life/)
- - [ ] [What is the unchecked keyword good for? Part two](https://ericlippert.com/2015/04/13/what-is-the-unchecked-keyword-good-for-part-two/)
- - [ ] [What is the unchecked keyword good for? Part one](https://ericlippert.com/2015/04/09/what-is-the-unchecked-keyword-good-for-part-one/)
+ - [x] [What is the unchecked keyword good for? Part two](https://ericlippert.com/2015/04/13/what-is-the-unchecked-keyword-good-for-part-two/)
+ - [x] [What is the unchecked keyword good for? Part one](https://ericlippert.com/2015/04/09/what-is-the-unchecked-keyword-good-for-part-one/)
  - [x] [Too many hobbies](https://ericlippert.com/2015/04/07/too-many-hobbies/)
 
 ## [November 2014](https://ericlippert.com/2014/11/)
