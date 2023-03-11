@@ -4,7 +4,6 @@ use Moo;
 use Function::Parameters;
 use Mojo::UserAgent;
 use Mojo::URL;
-use Data::Dump qw(pp);
 
 use Fabulous::Article;
 
@@ -23,7 +22,7 @@ method get_articles_for_month($month) {
     my $month_url = $month->{href};
     my ($yy, $mm) = Mojo::URL->new($month_url)->path =~ /\d+/g;
 
-    my $additional = $self->ua->post(Mojo::URL->new($self->base_url)->query(infinity => 'scrolling') => form => { 
+    my $posts = $self->ua->post(Mojo::URL->new($self->base_url)->query(infinity => 'scrolling') => form => { 
         'action' => "infinite_scroll",
         'page' => "1",
         'order' => "DESC",
@@ -32,9 +31,8 @@ method get_articles_for_month($month) {
         'query_args[posts_per_page]' => 50,
         'query_args[order]' => "DESC",
     });
-    my $dom = Mojo::DOM->new($additional->res->json->{html});
     my @articles = ();
-    for my $article ($dom->find('article')->each) {
+    for my $article (Mojo::DOM->new($posts->res->json->{html})->find('article')->each) {
         my $title = $article->find('.entry-title > a:nth-child(1)')->first;
         my @tags  = $article->find('span.tag-links > a')->each;
         push @articles, Fabulous::Article->new(title => $title->text, href => $title->{href}, tags => \@tags);
