@@ -944,3 +944,6 @@
 
 ## [August 2003](https://ericlippert.com/2003/08/)
  - [ ] [Fabulous Adventures!](https://ericlippert.com/2003/08/30/fabulous-adventures-2/)
+
+*[ATBG]: Ask the Bug Guys
+*[VSTO]: Visual Studio Tools for Office
