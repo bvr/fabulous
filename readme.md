@@ -332,9 +332,9 @@
 
 ## [June 2015](https://ericlippert.com/2015/06/)
  - [ ] [One from the road](https://ericlippert.com/2015/06/10/one-from-the-road/)
- - [ ] [Interviewing candidates](https://ericlippert.com/2015/06/08/interviewing-candidates/)
- - [ ] [It’s not magic](https://ericlippert.com/2015/06/04/its-not-magic/)
- - [ ] [Writing code on whiteboards is hard](https://ericlippert.com/2015/06/01/writing-code-on-whiteboards-is-hard/)
+ - [x] [Interviewing candidates](https://ericlippert.com/2015/06/08/interviewing-candidates/)
+ - [x] [It’s not magic](https://ericlippert.com/2015/06/04/its-not-magic/)
+ - [x] [Writing code on whiteboards is hard](https://ericlippert.com/2015/06/01/writing-code-on-whiteboards-is-hard/)
 
 ## [May 2015](https://ericlippert.com/2015/05/)
  - [ ] [Ask me anything!](https://ericlippert.com/2015/05/27/ask-me-anything/)
@@ -342,7 +342,7 @@
  - [x] [When everything you know is wrong, part two](https://ericlippert.com/2015/05/21/when-everything-you-know-is-wrong-part-two/)
  - [x] [When everything you know is wrong, part one](https://ericlippert.com/2015/05/18/when-everything-you-know-is-wrong-part-one/)
  - [x] [Wizards and warriors, part five](https://ericlippert.com/2015/05/11/wizards-and-warriors-part-five/)
- - [ ] [Flat-pack sawhorses](https://ericlippert.com/2015/05/08/flat-pack-sawhorses/)
+ - [x] [Flat-pack sawhorses](https://ericlippert.com/2015/05/08/flat-pack-sawhorses/)
  - [x] [Wizards and warriors, part four](https://ericlippert.com/2015/05/07/wizards-and-warriors-part-four/)
  - [x] [Wizards and warriors, part three](https://ericlippert.com/2015/05/04/wizards-and-warriors-part-three/)
 
