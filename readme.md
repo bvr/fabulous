@@ -810,10 +810,10 @@
  - [ ] [Immutability in C# Part One: Kinds of Immutability](https://ericlippert.com/2007/11/13/immutability-in-c-part-one-kinds-of-immutability/)
 
 ## [October 2007](https://ericlippert.com/2007/10/)
- - [ ] [Covariance and Contravariance in C#, Part 3: Method Group Conversion Variance](https://ericlippert.com/2007/10/19/covariance-and-contravariance-in-c-part-3-method-group-conversion-variance/)
- - [ ] [Covariance and Contravariance in C#, Part 2: Array Covariance](https://ericlippert.com/2007/10/17/covariance-and-contravariance-in-c-part-2-array-covariance/)
- - [ ] [Covariance and contravariance in C#, part 1](https://ericlippert.com/2007/10/16/covariance-and-contravariance-in-c-part-1/)
- - [ ] [Packet Gnomes](https://ericlippert.com/2007/10/11/packet-gnomes/)
+ - [x] [Covariance and Contravariance in C#, Part 3: Method Group Conversion Variance](https://ericlippert.com/2007/10/19/covariance-and-contravariance-in-c-part-3-method-group-conversion-variance/)
+ - [x] [Covariance and Contravariance in C#, Part 2: Array Covariance](https://ericlippert.com/2007/10/17/covariance-and-contravariance-in-c-part-2-array-covariance/)
+ - [x] [Covariance and contravariance in C#, part 1](https://ericlippert.com/2007/10/16/covariance-and-contravariance-in-c-part-1/)
+ - [x] [Packet Gnomes](https://ericlippert.com/2007/10/11/packet-gnomes/)
 
 ## [August 2007](https://ericlippert.com/2007/08/)
  - [x] [C++ and the pit of despair](https://ericlippert.com/2007/08/14/c-and-the-pit-of-despair/)
