@@ -86,16 +86,16 @@
  - [ ] [Life, part 3](https://ericlippert.com/2020/04/23/life-part-3/)
  - [ ] [Life, part 2](https://ericlippert.com/2020/04/20/life-part-2/)
  - [ ] [Life, part 1](https://ericlippert.com/2020/04/13/life-part-1/)
- - [ ] [Report thy feat unto Lord British](https://ericlippert.com/2020/04/10/report-thy-feat-unto-lord-british/)
+ - [x] [Report thy feat unto Lord British](https://ericlippert.com/2020/04/10/report-thy-feat-unto-lord-british/)
 
 ## [March 2020](https://ericlippert.com/2020/03/)
- - [ ] [New grad vs senior dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/)
- - [ ] [Bandits, victims and idiots](https://ericlippert.com/2020/03/24/bandits-victims-and-idiots/)
- - [ ] [Working from home](https://ericlippert.com/2020/03/20/working-from-home/)
+ - [x] [New grad vs senior dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/)
+ - [x] [Bandits, victims and idiots](https://ericlippert.com/2020/03/24/bandits-victims-and-idiots/)
+ - [x] [Working from home](https://ericlippert.com/2020/03/20/working-from-home/)
  - [ ] [Passing awaited tasks](https://ericlippert.com/2020/03/10/passing-awaited-tasks/)
 
 ## [February 2020](https://ericlippert.com/2020/02/)
- - [ ] [Hundred year mistakes](https://ericlippert.com/2020/02/27/hundred-year-mistakes/)
+ - [x] [Hundred year mistakes](https://ericlippert.com/2020/02/27/hundred-year-mistakes/)
  - [x] [Building a fake company](https://ericlippert.com/2020/02/24/building-a-fake-company/)
 
 ## [January 2020](https://ericlippert.com/2020/01/)
@@ -302,7 +302,7 @@
  - [ ] [West of house](https://ericlippert.com/2016/02/01/west-of-house/)
 
 ## [January 2016](https://ericlippert.com/2016/01/)
- - [ ] [Functional style follow-up](https://ericlippert.com/2016/01/14/functional-style-follow-up/)
+ - [x] [Functional style follow-up](https://ericlippert.com/2016/01/14/functional-style-follow-up/)
  - [x] [Space oddity](https://ericlippert.com/2016/01/12/space-oddity/)
  - [x] [Functional programming for beginners](https://ericlippert.com/2016/01/11/functional-programming-for-beginners/)
 
@@ -908,7 +908,7 @@
 ## [September 2003](https://ericlippert.com/2003/09/)
  - [ ] [A Whole Lot Of Nothing](https://ericlippert.com/2003/09/30/a-whole-lot-of-nothing/)
  - [ ] [In, Out, In-Out, Make Up Your Mind Already](https://ericlippert.com/2003/09/29/in-out-in-out-make-up-your-mind-already/)
- - [ ] [What could numeric rounding possibly have to do with MS-DOS?](https://ericlippert.com/2003/09/26/what-could-numeric-rounding-possibly-have-to-do-with-ms-dos/)
+ - [x] [What could numeric rounding possibly have to do with MS-DOS?](https://ericlippert.com/2003/09/26/what-could-numeric-rounding-possibly-have-to-do-with-ms-dos/)
  - [ ] [Bankers’ Rounding](https://ericlippert.com/2003/09/26/bankers-rounding/)
  - [ ] [More on Certificates and Trust Decisions](https://ericlippert.com/2003/09/25/more-on-certificates-and-trust-decisions/)
  - [ ] [Evil Security Twin Powers… Activate!](https://ericlippert.com/2003/09/25/evil-security-twin-powers-activate/)
