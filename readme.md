@@ -807,7 +807,7 @@
  - [ ] [Immutability in C# Part Two: A Simple Immutable Stack](https://ericlippert.com/2007/12/04/immutability-in-c-part-two-a-simple-immutable-stack/)
 
 ## [November 2007](https://ericlippert.com/2007/11/)
- - [ ] [Immutability in C# Part One: Kinds of Immutability](https://ericlippert.com/2007/11/13/immutability-in-c-part-one-kinds-of-immutability/)
+ - [x] [Immutability in C# Part One: Kinds of Immutability](https://ericlippert.com/2007/11/13/immutability-in-c-part-one-kinds-of-immutability/)
 
 ## [October 2007](https://ericlippert.com/2007/10/)
  - [x] [Covariance and Contravariance in C#, Part 3: Method Group Conversion Variance](https://ericlippert.com/2007/10/19/covariance-and-contravariance-in-c-part-3-method-group-conversion-variance/)
