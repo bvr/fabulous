@@ -788,7 +788,7 @@
  - [ ] [Covariance and Contravariance, Part 11: To infinity, but not beyond](https://ericlippert.com/2008/05/07/covariance-and-contravariance-part-11-to-infinity-but-not-beyond/)
 
 ## [February 2008](https://ericlippert.com/2008/02/)
- - [ ] [How to not get a question answered](https://ericlippert.com/2008/02/20/how-to-not-get-a-question-answered/)
+ - [x] [How to not get a question answered](https://ericlippert.com/2008/02/20/how-to-not-get-a-question-answered/)
  - [ ] [Why Do Initializers Run In The Opposite Order As Constructors? Part Two](https://ericlippert.com/2008/02/18/why-do-initializers-run-in-the-opposite-order-as-constructors-part-two/)
  - [ ] [Why Do Initializers Run In The Opposite Order As Constructors? Part One](https://ericlippert.com/2008/02/15/why-do-initializers-run-in-the-opposite-order-as-constructors-part-one/)
  - [ ] [Immutability in C# Part Eleven: A working double-ended queue](https://ericlippert.com/2008/02/12/immutability-in-c-part-eleven-a-working-double-ended-queue/)
