@@ -882,7 +882,7 @@
  - [ ] [Making Sense of HRESULTS](https://ericlippert.com/2003/10/22/making-sense-of-hresults/)
  - [ ] [Constant Folding and Partial Evaluation](https://ericlippert.com/2003/10/21/constant-folding-and-partial-evaluation/)
  - [ ] [I’m not stringing you along, honest](https://ericlippert.com/2003/10/20/im-not-stringing-you-along-honest/)
- - [ ] [The Malware of Ultimate Destruction](https://ericlippert.com/2003/10/18/the-malware-of-ultimate-destruction/)
+ - [x] [The Malware of Ultimate Destruction](https://ericlippert.com/2003/10/18/the-malware-of-ultimate-destruction/)
  - [ ] [How Bad Is Good Enough?](https://ericlippert.com/2003/10/17/how-bad-is-good-enough/)
  - [ ] [Long jumps considered way more harmful than exceptions](https://ericlippert.com/2003/10/16/long-jumps-considered-way-more-harmful-than-exceptions/)
  - [ ] [VBScript : VB :: ping-pong : volleyball](https://ericlippert.com/2003/10/16/vbscript-vb-ping-pong-volleyball/)
