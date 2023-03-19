@@ -803,8 +803,8 @@
  - [ ] [Immutability in C# Part Six: A Simple Binary Tree](https://ericlippert.com/2007/12/18/immutability-in-c-part-six-a-simple-binary-tree/)
  - [ ] [Immutability in C# Part Five: LOLZ!](https://ericlippert.com/2007/12/13/immutability-in-c-part-five-lolz/)
  - [ ] [Immutability in C# Part Four: An Immutable Queue](https://ericlippert.com/2007/12/10/immutability-in-c-part-four-an-immutable-queue/)
- - [ ] [Immutability in C# Part Three: A Covariant Immutable Stack](https://ericlippert.com/2007/12/06/immutability-in-c-part-three-a-covariant-immutable-stack/)
- - [ ] [Immutability in C# Part Two: A Simple Immutable Stack](https://ericlippert.com/2007/12/04/immutability-in-c-part-two-a-simple-immutable-stack/)
+ - [x] [Immutability in C# Part Three: A Covariant Immutable Stack](https://ericlippert.com/2007/12/06/immutability-in-c-part-three-a-covariant-immutable-stack/)
+ - [x] [Immutability in C# Part Two: A Simple Immutable Stack](https://ericlippert.com/2007/12/04/immutability-in-c-part-two-a-simple-immutable-stack/)
 
 ## [November 2007](https://ericlippert.com/2007/11/)
  - [x] [Immutability in C# Part One: Kinds of Immutability](https://ericlippert.com/2007/11/13/immutability-in-c-part-one-kinds-of-immutability/)
