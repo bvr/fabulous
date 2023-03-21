@@ -582,7 +582,7 @@
  - [ ] [Nullable micro-optimization, part five](https://ericlippert.com/2013/01/10/nullable-micro-optimization-part-five/)
  - [ ] [It’s still essential!](https://ericlippert.com/2013/01/08/its-still-essential/)
  - [ ] [Nullable micro-optimization, part four](https://ericlippert.com/2013/01/07/nullable-micro-optimization-part-four/)
- - [ ] [Nullable micro-optimization, part three](https://ericlippert.com/2013/01/03/nullable-micro-optimization-part-three/)
+ - [x] [Nullable micro-optimization, part three](https://ericlippert.com/2013/01/03/nullable-micro-optimization-part-three/)
 
 ## [December 2012](https://ericlippert.com/2012/12/)
  - [x] [Nullable micro-optimization, part two](https://ericlippert.com/2012/12/27/nullable-micro-optimization-part-two/)
