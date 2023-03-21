@@ -585,8 +585,8 @@
  - [ ] [Nullable micro-optimization, part three](https://ericlippert.com/2013/01/03/nullable-micro-optimization-part-three/)
 
 ## [December 2012](https://ericlippert.com/2012/12/)
- - [ ] [Nullable micro-optimization, part two](https://ericlippert.com/2012/12/27/nullable-micro-optimization-part-two/)
- - [ ] [Nullable micro-optimizations, part one](https://ericlippert.com/2012/12/20/nullable-micro-optimizations-part-one/)
+ - [x] [Nullable micro-optimization, part two](https://ericlippert.com/2012/12/27/nullable-micro-optimization-part-two/)
+ - [x] [Nullable micro-optimizations, part one](https://ericlippert.com/2012/12/20/nullable-micro-optimizations-part-one/)
  - [x] [Which is faster?](https://ericlippert.com/2012/12/17/performance-rant/)
  - [ ] [My Kauai vacation](https://ericlippert.com/2012/12/14/my-kauai-vacation/)
  - [ ] [Taking responsibility](https://ericlippert.com/2012/12/11/taking-responsibility/)
