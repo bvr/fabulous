@@ -659,17 +659,17 @@
 ## [February 2012](https://ericlippert.com/2012/02/)
  - [ ] [The solution to the simple puzzle](https://ericlippert.com/2012/02/27/the-solution-to-the-simple-puzzle/)
  - [ ] [A simple puzzle](https://ericlippert.com/2012/02/24/a-simple-puzzle/)
- - [ ] [Generating random non-uniform data in C#](https://ericlippert.com/2012/02/21/generating-random-non-uniform-data/)
+ - [x] [Generating random non-uniform data in C#](https://ericlippert.com/2012/02/21/generating-random-non-uniform-data/)
  - [ ] [Bad metaphors](https://ericlippert.com/2012/02/13/bad-metaphors/)
  - [ ] [What is late binding?](https://ericlippert.com/2012/02/06/what-is-late-binding/)
- - [ ] [What’s the difference between a trenchcoat and a duster?](https://ericlippert.com/2012/02/03/whats-the-difference-between-a-trenchcoat-and-a-duster/)
+ - [x] [What’s the difference between a trenchcoat and a duster?](https://ericlippert.com/2012/02/03/whats-the-difference-between-a-trenchcoat-and-a-duster/)
 
 ## [January 2012](https://ericlippert.com/2012/01/)
  - [ ] [What is the defining characteristic of a local variable?](https://ericlippert.com/2012/01/16/what-is-the-defining-characteristic-of-a-local-variable/)
  - [ ] [Every public change is a breaking change](https://ericlippert.com/2012/01/09/every-public-change-is-a-breaking-change/)
 
 ## [November 2011](https://ericlippert.com/2011/11/)
- - [ ] [A C# reading list](https://ericlippert.com/2011/11/10/a-c-reading-list/)
+ - [x] [A C# reading list](https://ericlippert.com/2011/11/10/a-c-reading-list/)
 
 ## [September 2011](https://ericlippert.com/2011/09/)
  - [ ] [Inheritance and representation](https://ericlippert.com/2011/09/19/inheritance-and-representation/)
