@@ -689,12 +689,12 @@
  - [ ] [Optional argument corner cases, part one](https://ericlippert.com/2011/05/09/optional-argument-corner-cases-part-one/)
 
 ## [April 2011](https://ericlippert.com/2011/04/)
- - [ ] [Maybe there’s something wrong with the universe, but probably not](https://ericlippert.com/2011/04/25/something-wrong-with-the-universe/)
+ - [x] [Maybe there’s something wrong with the universe, but probably not](https://ericlippert.com/2011/04/25/something-wrong-with-the-universe/)
 
 ## [March 2011](https://ericlippert.com/2011/03/)
- - [ ] [Implementing the virtual method pattern in C#, part three](https://ericlippert.com/2011/03/24/implementing-the-virtual-method-pattern-in-c-part-three/)
- - [ ] [Implementing the virtual method pattern in C#, part two](https://ericlippert.com/2011/03/21/implementing-the-virtual-method-pattern-in-c-part-two/)
- - [ ] [Implementing the virtual method pattern in C#, part one](https://ericlippert.com/2011/03/17/implementing-the-virtual-method-pattern-in-c-part-one/)
+ - [x] [Implementing the virtual method pattern in C#, part three](https://ericlippert.com/2011/03/24/implementing-the-virtual-method-pattern-in-c-part-three/)
+ - [x] [Implementing the virtual method pattern in C#, part two](https://ericlippert.com/2011/03/21/implementing-the-virtual-method-pattern-in-c-part-two/)
+ - [x] [Implementing the virtual method pattern in C#, part one](https://ericlippert.com/2011/03/17/implementing-the-virtual-method-pattern-in-c-part-one/)
  - [ ] [To box or not to box](https://ericlippert.com/2011/03/14/to-box-or-not-to-box/)
 
 ## [February 2011](https://ericlippert.com/2011/02/)
