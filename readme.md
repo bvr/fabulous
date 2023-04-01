@@ -1,4 +1,7 @@
 
+## [March 2023](https://ericlippert.com/2023/03/)
+ - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
+
 ## [February 2023](https://ericlippert.com/2023/02/)
  - [ ] [Bean Machine Retrospective, part 8](https://ericlippert.com/2023/02/23/bean-machine-retrospective-part-8/)
  - [ ] [Bean Machine Retrospective, part 7](https://ericlippert.com/2023/02/08/bean-machine-retrospective-part-7/)
