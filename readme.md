@@ -95,7 +95,7 @@
  - [x] [New grad vs senior dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/)
  - [x] [Bandits, victims and idiots](https://ericlippert.com/2020/03/24/bandits-victims-and-idiots/)
  - [x] [Working from home](https://ericlippert.com/2020/03/20/working-from-home/)
- - [ ] [Passing awaited tasks](https://ericlippert.com/2020/03/10/passing-awaited-tasks/)
+ - [x] [Passing awaited tasks](https://ericlippert.com/2020/03/10/passing-awaited-tasks/)
 
 ## [February 2020](https://ericlippert.com/2020/02/)
  - [x] [Hundred year mistakes](https://ericlippert.com/2020/02/27/hundred-year-mistakes/)
