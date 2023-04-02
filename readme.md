@@ -178,8 +178,8 @@
 
 ## [January 2019](https://ericlippert.com/2019/01/)
  - [ ] [Fixing Random, part 1](https://ericlippert.com/2019/01/31/fixing-random-part-1/)
- - [ ] [An interesting list structure, part 3](https://ericlippert.com/2019/01/28/an-interesting-list-structure-part-3/)
- - [ ] [An interesting list structure, part 2](https://ericlippert.com/2019/01/24/an-interesting-list-structure-part-2/)
+ - [x] [An interesting list structure, part 3](https://ericlippert.com/2019/01/28/an-interesting-list-structure-part-3/)
+ - [x] [An interesting list structure, part 2](https://ericlippert.com/2019/01/24/an-interesting-list-structure-part-2/)
  - [x] [An interesting list structure, part 1](https://ericlippert.com/2019/01/22/an-interesting-list-structure/)
  - [ ] [Indexer error cases](https://ericlippert.com/2019/01/18/indexer-error-cases/)
  - [ ] [Dual numbers, part 4](https://ericlippert.com/2019/01/16/dual-numbers-part-4/)
