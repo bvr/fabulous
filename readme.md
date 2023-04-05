@@ -174,10 +174,10 @@
  - [ ] [Exhausting vs exhaustive](https://ericlippert.com/2019/02/12/exhausting-vs-exhaustive/)
  - [ ] [Fixing Random, part 4](https://ericlippert.com/2019/02/11/fixing-random-part-4/)
  - [ ] [Fixing Random, part 3](https://ericlippert.com/2019/02/07/fixing-random-part-3/)
- - [ ] [Fixing Random, part 2](https://ericlippert.com/2019/02/04/fixing-random-part-2/)
+ - [x] [Fixing Random, part 2](https://ericlippert.com/2019/02/04/fixing-random-part-2/)
 
 ## [January 2019](https://ericlippert.com/2019/01/)
- - [ ] [Fixing Random, part 1](https://ericlippert.com/2019/01/31/fixing-random-part-1/)
+ - [x] [Fixing Random, part 1](https://ericlippert.com/2019/01/31/fixing-random-part-1/)
  - [x] [An interesting list structure, part 3](https://ericlippert.com/2019/01/28/an-interesting-list-structure-part-3/)
  - [x] [An interesting list structure, part 2](https://ericlippert.com/2019/01/24/an-interesting-list-structure-part-2/)
  - [x] [An interesting list structure, part 1](https://ericlippert.com/2019/01/22/an-interesting-list-structure/)
