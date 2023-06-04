@@ -732,8 +732,8 @@
  - [ ] [Don’t repeat yourself; consts are already static](https://ericlippert.com/2010/06/10/dont-repeat-yourself-consts-are-already-static/)
 
 ## [March 2010](https://ericlippert.com/2010/03/)
- - [ ] [Knights, knaves, protected and internal](https://ericlippert.com/2010/03/25/knights-knaves-protected-and-internal/)
- - [ ] [Socks, birthdays and hash collisions](https://ericlippert.com/2010/03/22/socks-birthdays-and-hash-collisions/)
+ - [x] [Knights, knaves, protected and internal](https://ericlippert.com/2010/03/25/knights-knaves-protected-and-internal/)
+ - [x] [Socks, birthdays and hash collisions](https://ericlippert.com/2010/03/22/socks-birthdays-and-hash-collisions/)
 
 ## [January 2010](https://ericlippert.com/2010/01/)
  - [ ] [Continuing to an outer loop](https://ericlippert.com/2010/01/11/continuing-to-an-outer-loop/)
