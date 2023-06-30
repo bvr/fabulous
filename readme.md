@@ -742,8 +742,8 @@
  - [ ] [What’s the difference between covariance and assignment compatibility?](https://ericlippert.com/2009/11/30/whats-the-difference-between-covariance-and-assignment-compatibility/)
  - [ ] [Closing over the loop variable considered harmful, part two](https://ericlippert.com/2009/11/16/closing-over-the-loop-variable-considered-harmful-part-two/)
  - [ ] [Closing over the loop variable considered harmful, part one](https://ericlippert.com/2009/11/12/closing-over-the-loop-variable-considered-harmful-part-one/)
- - [ ] [Simple names are not so simple, part two](https://ericlippert.com/2009/11/05/simple-names-are-not-so-simple-part-two/)
- - [ ] [Simple names are not so simple, part one](https://ericlippert.com/2009/11/02/simple-names-are-not-so-simple/)
+ - [x] [Simple names are not so simple, part two](https://ericlippert.com/2009/11/05/simple-names-are-not-so-simple-part-two/)
+ - [x] [Simple names are not so simple, part one](https://ericlippert.com/2009/11/02/simple-names-are-not-so-simple/)
 
 ## [October 2009](https://ericlippert.com/2009/10/)
  - [ ] [Begging the question](https://ericlippert.com/2009/10/22/begging-the-question/)
