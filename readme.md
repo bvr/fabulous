@@ -432,7 +432,7 @@
  - [ ] [Can I skip the lock when reading an integer?](https://ericlippert.com/2014/03/12/can-i-skip-the-lock-when-reading-an-integer/)
  - [ ] [High Performance Windows Store Apps](https://ericlippert.com/2014/03/07/high-performance-windows-store-apps/)
  - [ ] [Living with unchecked exceptions, part two](https://ericlippert.com/2014/03/06/living-with-unchecked-exceptions-part-two/)
- - [ ] [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
+ - [x] [How to debug small programs](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/)
  - [ ] [Living with unchecked exceptions](https://ericlippert.com/2014/03/03/living-with-unchecked-exceptions/)
 
 ## [February 2014](https://ericlippert.com/2014/02/)
