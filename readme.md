@@ -399,7 +399,7 @@
  - [ ] [Short questions](https://ericlippert.com/2014/07/22/short-questions/)
  - [ ] [Analyzing test code](https://ericlippert.com/2014/07/21/analyzing-test-code/)
  - [ ] [Copy-paste defects](https://ericlippert.com/2014/07/17/copy-paste-defects/)
- - [ ] [Analysis vs code review](https://ericlippert.com/2014/07/15/analysis-vs-code-review/)
+ - [x] [Analysis vs code review](https://ericlippert.com/2014/07/15/analysis-vs-code-review/)
  - [ ] [Avoiding C# defects talk Tuesday](https://ericlippert.com/2014/07/14/avoiding-c-defects-talk-tuesday/)
 
 ## [June 2014](https://ericlippert.com/2014/06/)
@@ -409,9 +409,9 @@
  - [ ] [ATBG: Why do enumerators avoid a bounds check?](https://ericlippert.com/2014/06/04/enumerator-bounds/)
 
 ## [May 2014](https://ericlippert.com/2014/05/)
- - [ ] [Funniest Hungarian joke ever](https://ericlippert.com/2014/05/28/funniest-hungarian-joke-ever/)
+ - [x] [Funniest Hungarian joke ever](https://ericlippert.com/2014/05/28/funniest-hungarian-joke-ever/)
  - [ ] [ATBG: Why does my enumerator not advance?](https://ericlippert.com/2014/05/21/enumerator-advance/)
- - [ ] [When should I write a property?](https://ericlippert.com/2014/05/19/when-should-i-write-a-property/)
+ - [x] [When should I write a property?](https://ericlippert.com/2014/05/19/when-should-i-write-a-property/)
  - [ ] [What are the fundamental rules of pointers?](https://ericlippert.com/2014/05/12/what-are-the-fundamental-rules-of-pointers/)
  - [ ] [ATBG: Why does my code not crash?](https://ericlippert.com/2014/05/07/why-does-my-code-not-crash/)
  - [x] [Lowering in language design, part two](https://ericlippert.com/2014/05/01/lowering-in-language-design-part-two/)
