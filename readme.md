@@ -411,11 +411,11 @@
  - [ ] [When should I write a property?](https://ericlippert.com/2014/05/19/when-should-i-write-a-property/)
  - [ ] [What are the fundamental rules of pointers?](https://ericlippert.com/2014/05/12/what-are-the-fundamental-rules-of-pointers/)
  - [ ] [ATBG: Why does my code not crash?](https://ericlippert.com/2014/05/07/why-does-my-code-not-crash/)
- - [ ] [Lowering in language design, part two](https://ericlippert.com/2014/05/01/lowering-in-language-design-part-two/)
+ - [x] [Lowering in language design, part two](https://ericlippert.com/2014/05/01/lowering-in-language-design-part-two/)
 
 ## [April 2014](https://ericlippert.com/2014/04/)
  - [x] [Moving this blog](https://ericlippert.com/2014/04/29/moving-this-blog/)
- - [ ] [Lowering in language design, part one](https://ericlippert.com/2014/04/28/lowering-in-language-design-part-one/)
+ - [x] [Lowering in language design, part one](https://ericlippert.com/2014/04/28/lowering-in-language-design-part-one/)
  - [x] [Random programming](https://ericlippert.com/2014/04/28/random-programming/)
  - [x] [Volcanoes and fried foods (rerun)](https://ericlippert.com/2014/04/25/volcanoes-and-fried-foods/)
  - [x] [ATBG: Warnings vs errors](https://ericlippert.com/2014/04/23/atbg-warnings-vs-errors/)
