@@ -1,5 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/done-14%25-green)
+![Static Badge](https://img.shields.io/badge/read-110/693%25-yellow)
+![Static Badge](https://img.shields.io/badge/done-15.9%25-green)
 
 
 ## [March 2023](https://ericlippert.com/2023/03/)
@@ -391,16 +392,16 @@
  - [ ] [ATBG: Ontogeny, phylogeny and virtual methods](https://ericlippert.com/2014/09/03/ontogeny-phylogeny-virtual-methods/)
 
 ## [August 2014](https://ericlippert.com/2014/08/)
- - [ ] [What is up with transparent identifiers? Part two](https://ericlippert.com/2014/08/01/transparent-identifiers-part-two/)
+ - [x] [What is up with transparent identifiers? Part two](https://ericlippert.com/2014/08/01/transparent-identifiers-part-two/)
 
 ## [July 2014](https://ericlippert.com/2014/07/)
- - [ ] [What is up with transparent identifiers? Part one](https://ericlippert.com/2014/07/31/transparent-identifiers-part-one/)
- - [ ] [Casting: making a green sand mold](https://ericlippert.com/2014/07/28/casting-making-a-green-sand-mold/)
- - [ ] [Short questions](https://ericlippert.com/2014/07/22/short-questions/)
- - [ ] [Analyzing test code](https://ericlippert.com/2014/07/21/analyzing-test-code/)
- - [ ] [Copy-paste defects](https://ericlippert.com/2014/07/17/copy-paste-defects/)
+ - [x] [What is up with transparent identifiers? Part one](https://ericlippert.com/2014/07/31/transparent-identifiers-part-one/)
+ - [x] [Casting: making a green sand mold](https://ericlippert.com/2014/07/28/casting-making-a-green-sand-mold/)
+ - [x] [Short questions](https://ericlippert.com/2014/07/22/short-questions/)
+ - [x] [Analyzing test code](https://ericlippert.com/2014/07/21/analyzing-test-code/)
+ - [x] [Copy-paste defects](https://ericlippert.com/2014/07/17/copy-paste-defects/)
  - [x] [Analysis vs code review](https://ericlippert.com/2014/07/15/analysis-vs-code-review/)
- - [ ] [Avoiding C# defects talk Tuesday](https://ericlippert.com/2014/07/14/avoiding-c-defects-talk-tuesday/)
+ - [x] [Avoiding C# defects talk Tuesday](https://ericlippert.com/2014/07/14/avoiding-c-defects-talk-tuesday/)
 
 ## [June 2014](https://ericlippert.com/2014/06/)
  - [ ] [ATBG: Delegates and structural identity](https://ericlippert.com/2014/06/18/delegates-and-structural-identity/)
