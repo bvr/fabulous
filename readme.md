@@ -1,5 +1,5 @@
 
-![Static Badge](https://img.shields.io/badge/read-110+out+of+693-yellow)
+![Static Badge](https://img.shields.io/badge/read-110%20out%20of%20693-yellow)
 ![Static Badge](https://img.shields.io/badge/done-15.9%25-green)
 
 
