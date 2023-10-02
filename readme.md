@@ -176,7 +176,7 @@
  - [ ] [Fixing Random, part 6](https://ericlippert.com/2019/02/19/fixing-random-part-6/)
  - [ ] [Fixing Random, part 5](https://ericlippert.com/2019/02/14/fixing-random-part-5/)
  - [x] [Exhausting vs exhaustive](https://ericlippert.com/2019/02/12/exhausting-vs-exhaustive/)
- - [ ] [Fixing Random, part 4](https://ericlippert.com/2019/02/11/fixing-random-part-4/)
+ - [x] [Fixing Random, part 4](https://ericlippert.com/2019/02/11/fixing-random-part-4/)
  - [x] [Fixing Random, part 3](https://ericlippert.com/2019/02/07/fixing-random-part-3/)
  - [x] [Fixing Random, part 2](https://ericlippert.com/2019/02/04/fixing-random-part-2/)
 
