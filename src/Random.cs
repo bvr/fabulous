@@ -1,39 +1,20 @@
-// from https://ericlippert.com/2019/02/07/fixing-random-part-3/
+/* from 
+    - https://ericlippert.com/2019/02/07/fixing-random-part-3/
+    - https://ericlippert.com/2019/02/11/fixing-random-part-4/
+
+*/
+
+using static System.Math;
 
 public interface IDistribution<T>
 {
     T Sample();
 }
 
-using SCU = StandardContinuousUniform;
-public sealed class StandardContinuousUniform : IDistribution<double>
+public interface IDiscreteDistribution<T> : IDistribution<T>
 {
-    public static readonly StandardContinuousUniform Distribution = new StandardContinuousUniform();
-    private StandardContinuousUniform() { }
-    public double Sample() => Pseudorandom.NextDouble();
-}
-
-using static System.Math;
-using SCU = StandardContinuousUniform;
-public sealed class Normal : IDistribution<double>
-{
-    public double Mean { get; }
-    public double Sigma { get; }
-    public double mean => Mean;
-    public double sigma => Sigma;
-    public readonly static Normal Standard = Distribution(0, 1);
-    public static Normal Distribution(double mean, double sigma) => new Normal(mean, sigma);
-    private Normal(double mean, double sigma)
-    {
-        this.Mean = mean;
-        this.Sigma = sigma;
-    }
-
-    // Box-Muller method
-    private double StandardSample() =>
-      Sqrt(-2.0 * Log(SCU.Distribution.Sample())) *
-        Cos(2.0 * PI * SCU.Distribution.Sample());
-    public double Sample() => mean + sigma * StandardSample();
+    IEnumerable<T> Support();
+    int Weight(T t);
 }
 
 public static class Distribution
@@ -69,6 +50,102 @@ public static class Distribution
           )
         ) + new string('-', width) + "\n";
     }
+
+    public static string Histogram<T>(this IDiscreteDistribution<T> d) => d.Samples().DiscreteHistogram();
+
+    public static string DiscreteHistogram<T>(this IEnumerable<T> d)
+    {
+        const int sampleCount = 100000;
+        const int width = 40;
+        var dict = d.Take(sampleCount)
+            .GroupBy(x => x)
+            .ToDictionary(g => g.Key, g => g.Count());
+        int labelMax = dict.Keys
+            .Select(x => x.ToString().Length)
+            .Max();
+        var sup = dict.Keys.OrderBy(x => x).ToList();
+        int max = dict.Values.Max();
+        double scale = max < width ? 1.0 : ((double)width) / max;
+        return string.Join("\n", sup.Select(s => $"{ToLabel(s)}|{Bar(s)}"));
+
+        string ToLabel(T t) => t.ToString().PadLeft(labelMax);
+        string Bar(T t) => new string('*', (int)(dict[t] * scale));
+    }
+
+    public static string ShowWeights<T>(this IDiscreteDistribution<T> d)
+    {
+        int labelMax = d.Support()
+            .Select(x => x.ToString().Length)
+            .Max();
+        return string.Join("\n", d.Support().Select(s => $"{ToLabel(s)}:{d.Weight(s)}"));
+        string ToLabel(T t) => t.ToString().PadLeft(labelMax);
+    }
 }
 
-// SCU.Distribution.Samples().Take(12).Sum()
+public sealed class StandardContinuousUniform : IDistribution<double>
+{
+    public static readonly StandardContinuousUniform Distribution = new StandardContinuousUniform();
+    private StandardContinuousUniform() { }
+    public double Sample() => Pseudorandom.NextDouble();
+}
+
+using SCU = StandardContinuousUniform;
+public sealed class Normal : IDistribution<double>
+{
+    public double Mean { get; }
+    public double Sigma { get; }
+    public double mean => Mean;
+    public double sigma => Sigma;
+
+    public readonly static Normal Standard = Distribution(0, 1);
+    public static Normal Distribution(double mean, double sigma) => new Normal(mean, sigma);
+
+    private Normal(double mean, double sigma)
+    {
+        this.Mean = mean;
+        this.Sigma = sigma;
+    }
+
+    // Box-Muller method
+    private double StandardSample() =>
+      Sqrt(-2.0 * Log(SCU.Distribution.Sample())) *
+        Cos(2.0 * PI * SCU.Distribution.Sample());
+    public double Sample() => mean + sigma * StandardSample();
+}
+
+
+public sealed class StandardDiscreteUniform : IDiscreteDistribution<int>
+{
+    public static StandardDiscreteUniform Distribution(int min, int max)
+    {
+        if (min > max)
+            throw new ArgumentException();
+        return new StandardDiscreteUniform(min, max);
+    }
+
+    public int Min { get; }
+    public int Max { get; }
+
+    private StandardDiscreteUniform(int min, int max)
+    {
+        this.Min = min;
+        this.Max = max;
+    }
+
+    public IEnumerable<int> Support() => Enumerable.Range(Min, 1 + Max - Min);
+    public int Sample() => (int)((SCU.Distribution.Sample() * (1.0 + Max - Min)) + Min);
+    public int Weight(int i) => (Min <= i && i <= Max) ? 1 : 0;
+    public override string ToString() => $"StandardDiscreteUniform[{Min}, {Max}]";
+}
+
+using SDU = StandardDiscreteUniform;
+
+/* Tests 
+
+SCU.Distribution.Histogram(0, 1);
+SCU.Distribution.Samples().Take(12).Sum();
+Normal.Distribution(1.0, 1.5).Histogram(–4, 4);
+SDU.Distribution(1, 6).Samples().Take(10).Sum();
+SDU.Distribution(1, 10).Histogram();
+
+*/
