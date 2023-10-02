@@ -7,7 +7,7 @@
 
 using static System.Math;
 
-﻿using System;
+using System;
 using System.Threading;
 
 namespace Probability
@@ -20,7 +20,7 @@ namespace Probability
           new ThreadLocal<Random>(() => new Random(BetterRandom.NextInt()));
         public static int NextInt() => prng.Value.Next();
         public static double NextDouble() => prng.Value.NextDouble();
-    }    
+    }
 
     public interface IDistribution<T>
     {
@@ -29,7 +29,17 @@ namespace Probability
 
     public interface IDiscreteDistribution<T> : IDistribution<T>
     {
+        /// <summary>
+        /// List of all possible values of the distribution
+        /// </summary>
+        /// <returns>Enumerable of the values</returns>
         IEnumerable<T> Support();
+
+        /// <summary>
+        /// More likely elements have more weight that the others
+        /// </summary>
+        /// <param name="t">Element for the weight</param>
+        /// <returns>Weight of the element</returns>
         int Weight(T t);
     }
 
@@ -155,6 +165,30 @@ namespace Probability
     }
 
     using SDU = StandardDiscreteUniform;
+
+    /// <summary>
+    /// The easiest discrete distribution of all is of course the trivial distribution.
+    /// That is, the probability distribution where 100% of the time it returns the same value.
+    /// </summary>
+    /// <typeparam name="T">Type of the Singleton distribution</typeparam>
+    public sealed class Singleton<T> : IDiscreteDistribution<T>
+    {
+        private readonly T t;
+
+        public static Singleton<T> Distribution(T t) => new Singleton<T>(t);
+
+        private Singleton(T t) => this.t = t;
+        public T Sample() => t;
+
+        public IEnumerable<T> Support()
+        {
+            yield return t;
+        }
+
+        public int Weight(T t) => EqualityComparer<T>.Default.Equals(this.t, t) ? 1 : 0;
+
+        public override string ToString() => $"Singleton[{t}]";
+    }
 
 }
 
