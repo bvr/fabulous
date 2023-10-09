@@ -171,7 +171,7 @@
 
 ## [February 2019](https://ericlippert.com/2019/02/)
  - [ ] [Fixing Random, part 9](https://ericlippert.com/2019/02/28/fixing-random-part-9/)
- - [ ] [Fixing Random, part 8](https://ericlippert.com/2019/02/26/fixing-random-part-8/)
+ - [x] [Fixing Random, part 8](https://ericlippert.com/2019/02/26/fixing-random-part-8/)
  - [x] [Fixing Random, part 7](https://ericlippert.com/2019/02/21/fixing-random-part-7/)
  - [x] [Fixing Random, part 6](https://ericlippert.com/2019/02/19/fixing-random-part-6/)
  - [x] [Fixing Random, part 5](https://ericlippert.com/2019/02/14/fixing-random-part-5/)
