@@ -167,10 +167,10 @@
  - [ ] [Fixing Random, part 13](https://ericlippert.com/2019/03/14/fixing-random-part-13/)
  - [ ] [Fixing Random, part 12](https://ericlippert.com/2019/03/11/fixing-random-part-12/)
  - [ ] [Fixing Random, part 11](https://ericlippert.com/2019/03/07/fixing-random-part-11/)
- - [ ] [Fixing Random, part 10](https://ericlippert.com/2019/03/04/fixing-random-part-10/)
+ - [x] [Fixing Random, part 10](https://ericlippert.com/2019/03/04/fixing-random-part-10/)
 
 ## [February 2019](https://ericlippert.com/2019/02/)
- - [ ] [Fixing Random, part 9](https://ericlippert.com/2019/02/28/fixing-random-part-9/)
+ - [x] [Fixing Random, part 9](https://ericlippert.com/2019/02/28/fixing-random-part-9/)
  - [x] [Fixing Random, part 8](https://ericlippert.com/2019/02/26/fixing-random-part-8/)
  - [x] [Fixing Random, part 7](https://ericlippert.com/2019/02/21/fixing-random-part-7/)
  - [x] [Fixing Random, part 6](https://ericlippert.com/2019/02/19/fixing-random-part-6/)
