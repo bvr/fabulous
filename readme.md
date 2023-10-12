@@ -784,7 +784,7 @@
 
 ## [January 2009](https://ericlippert.com/2009/01/)
  - [ ] [Long division](https://ericlippert.com/2009/01/28/long-division/)
- - [ ] [Why no var on fields?](https://ericlippert.com/2009/01/26/why-no-var-on-fields/)
+ - [x] [Why no var on fields?](https://ericlippert.com/2009/01/26/why-no-var-on-fields/)
 
 ## [September 2008](https://ericlippert.com/2008/09/)
  - [x] [Vexing exceptions](https://ericlippert.com/2008/09/10/vexing-exceptions/)
