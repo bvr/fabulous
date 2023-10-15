@@ -165,8 +165,8 @@
  - [x] [So long, MSDN blog](https://ericlippert.com/2019/03/21/so-long-msdn-blog/)
  - [ ] [Fixing Random, part 14](https://ericlippert.com/2019/03/18/fixing-random-part-14/)
  - [ ] [Fixing Random, part 13](https://ericlippert.com/2019/03/14/fixing-random-part-13/)
- - [ ] [Fixing Random, part 12](https://ericlippert.com/2019/03/11/fixing-random-part-12/)
- - [ ] [Fixing Random, part 11](https://ericlippert.com/2019/03/07/fixing-random-part-11/)
+ - [x] [Fixing Random, part 12](https://ericlippert.com/2019/03/11/fixing-random-part-12/)
+ - [x] [Fixing Random, part 11](https://ericlippert.com/2019/03/07/fixing-random-part-11/)
  - [x] [Fixing Random, part 10](https://ericlippert.com/2019/03/04/fixing-random-part-10/)
 
 ## [February 2019](https://ericlippert.com/2019/02/)
@@ -564,8 +564,8 @@
 
 ## [February 2013](https://ericlippert.com/2013/02/)
  - [ ] [Monads, part three](https://ericlippert.com/2013/02/28/monads-part-three/)
- - [ ] [Monads, part two](https://ericlippert.com/2013/02/25/monads-part-two/)
- - [ ] [Monads, part one](https://ericlippert.com/2013/02/21/monads-part-one/)
+ - [x] [Monads, part two](https://ericlippert.com/2013/02/25/monads-part-two/)
+ - [x] [Monads, part one](https://ericlippert.com/2013/02/21/monads-part-one/)
  - [ ] [Static constructors, part four](https://ericlippert.com/2013/02/18/static-constructors-part-four/)
  - [ ] [Static constructors, part three](https://ericlippert.com/2013/02/14/static-constructors-part-three/)
  - [ ] [Free beer!](https://ericlippert.com/2013/02/13/free-beer/)
