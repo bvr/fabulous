@@ -558,8 +558,8 @@
  - [ ] [Monads, part seven](https://ericlippert.com/2013/03/14/monads-part-seven/)
  - [ ] [Monads, part six](https://ericlippert.com/2013/03/11/monads-part-six/)
  - [ ] [Whidbey Island and bagel mathematics (rerun)](https://ericlippert.com/2013/03/08/bagel-mathematics/)
- - [ ] [Monads, part five](https://ericlippert.com/2013/03/07/monads-part-five/)
- - [ ] [Monads, part four](https://ericlippert.com/2013/03/04/monads-part-four/)
+ - [x] [Monads, part five](https://ericlippert.com/2013/03/07/monads-part-five/)
+ - [x] [Monads, part four](https://ericlippert.com/2013/03/04/monads-part-four/)
 
 ## [February 2013](https://ericlippert.com/2013/02/)
  - [x] [Monads, part three](https://ericlippert.com/2013/02/28/monads-part-three/)
