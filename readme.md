@@ -562,7 +562,7 @@
  - [ ] [Monads, part four](https://ericlippert.com/2013/03/04/monads-part-four/)
 
 ## [February 2013](https://ericlippert.com/2013/02/)
- - [ ] [Monads, part three](https://ericlippert.com/2013/02/28/monads-part-three/)
+ - [x] [Monads, part three](https://ericlippert.com/2013/02/28/monads-part-three/)
  - [x] [Monads, part two](https://ericlippert.com/2013/02/25/monads-part-two/)
  - [x] [Monads, part one](https://ericlippert.com/2013/02/21/monads-part-one/)
  - [ ] [Static constructors, part four](https://ericlippert.com/2013/02/18/static-constructors-part-four/)
