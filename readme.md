@@ -556,8 +556,8 @@
  - [ ] [Keeping it sharp](https://ericlippert.com/2013/03/19/keeping-it-sharp/)
  - [ ] [Monads, part eight](https://ericlippert.com/2013/03/18/monads-part-eight/)
  - [ ] [Monads, part seven](https://ericlippert.com/2013/03/14/monads-part-seven/)
- - [ ] [Monads, part six](https://ericlippert.com/2013/03/11/monads-part-six/)
- - [ ] [Whidbey Island and bagel mathematics (rerun)](https://ericlippert.com/2013/03/08/bagel-mathematics/)
+ - [x] [Monads, part six](https://ericlippert.com/2013/03/11/monads-part-six/)
+ - [x] [Whidbey Island and bagel mathematics (rerun)](https://ericlippert.com/2013/03/08/bagel-mathematics/)
  - [x] [Monads, part five](https://ericlippert.com/2013/03/07/monads-part-five/)
  - [x] [Monads, part four](https://ericlippert.com/2013/03/04/monads-part-four/)
 
