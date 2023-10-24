@@ -552,7 +552,7 @@
 ## [March 2013](https://ericlippert.com/2013/03/)
  - [ ] [Monads, part eleven](https://ericlippert.com/2013/03/28/monads-part-eleven/)
  - [ ] [Monads, part ten](https://ericlippert.com/2013/03/25/monads-part-ten/)
- - [ ] [Monads, part nine](https://ericlippert.com/2013/03/21/monads-part-nine/)
+ - [x] [Monads, part nine](https://ericlippert.com/2013/03/21/monads-part-nine/)
  - [x] [Keeping it sharp](https://ericlippert.com/2013/03/19/keeping-it-sharp/)
  - [x] [Monads, part eight](https://ericlippert.com/2013/03/18/monads-part-eight/)
  - [x] [Monads, part seven](https://ericlippert.com/2013/03/14/monads-part-seven/)
