@@ -546,11 +546,11 @@
  - [ ] [Building a tabletop coilgun](https://ericlippert.com/2013/04/09/tabletop-coilgun/)
  - [ ] [Thumbs up](https://ericlippert.com/2013/04/05/thumbs-up/)
  - [ ] [What does the langversion switch do?](https://ericlippert.com/2013/04/04/what-does-the-langversion-switch-do/)
- - [ ] [Monads, part thirteen](https://ericlippert.com/2013/04/03/monads-part-thirteen/)
+ - [x] [Monads, part thirteen](https://ericlippert.com/2013/04/03/monads-part-thirteen/)
  - [ ] [Monads, part twelve](https://ericlippert.com/2013/04/02/monads-part-twelve/)
 
 ## [March 2013](https://ericlippert.com/2013/03/)
- - [ ] [Monads, part eleven](https://ericlippert.com/2013/03/28/monads-part-eleven/)
+ - [x] [Monads, part eleven](https://ericlippert.com/2013/03/28/monads-part-eleven/)
  - [x] [Monads, part ten](https://ericlippert.com/2013/03/25/monads-part-ten/)
  - [x] [Monads, part nine](https://ericlippert.com/2013/03/21/monads-part-nine/)
  - [x] [Keeping it sharp](https://ericlippert.com/2013/03/19/keeping-it-sharp/)
