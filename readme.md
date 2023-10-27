@@ -568,10 +568,10 @@
  - [ ] [Static constructors, part four](https://ericlippert.com/2013/02/18/static-constructors-part-four/)
  - [ ] [Static constructors, part three](https://ericlippert.com/2013/02/14/static-constructors-part-three/)
  - [ ] [Free beer!](https://ericlippert.com/2013/02/13/free-beer/)
- - [ ] [Static constructors, part two](https://ericlippert.com/2013/02/11/static-constructors-part-two/)
+ - [x] [Static constructors, part two](https://ericlippert.com/2013/02/11/static-constructors-part-two/)
  - [ ] [Digital pain (rerun)](https://ericlippert.com/2013/02/08/digital-pain/)
- - [ ] [Static constructors, part one](https://ericlippert.com/2013/02/06/static-constructors-part-one/)
- - [ ] [The view from Columbia Center](https://ericlippert.com/2013/02/04/columbia-center/)
+ - [x] [Static constructors, part one](https://ericlippert.com/2013/02/06/static-constructors-part-one/)
+ - [x] [The view from Columbia Center](https://ericlippert.com/2013/02/04/columbia-center/)
 
 ## [January 2013](https://ericlippert.com/2013/01/)
  - [ ] [The no-lock deadlock](https://ericlippert.com/2013/01/31/the-no-lock-deadlock/)
@@ -795,8 +795,8 @@
 
 ## [February 2008](https://ericlippert.com/2008/02/)
  - [x] [How to not get a question answered](https://ericlippert.com/2008/02/20/how-to-not-get-a-question-answered/)
- - [ ] [Why Do Initializers Run In The Opposite Order As Constructors? Part Two](https://ericlippert.com/2008/02/18/why-do-initializers-run-in-the-opposite-order-as-constructors-part-two/)
- - [ ] [Why Do Initializers Run In The Opposite Order As Constructors? Part One](https://ericlippert.com/2008/02/15/why-do-initializers-run-in-the-opposite-order-as-constructors-part-one/)
+ - [x] [Why Do Initializers Run In The Opposite Order As Constructors? Part Two](https://ericlippert.com/2008/02/18/why-do-initializers-run-in-the-opposite-order-as-constructors-part-two/)
+ - [x] [Why Do Initializers Run In The Opposite Order As Constructors? Part One](https://ericlippert.com/2008/02/15/why-do-initializers-run-in-the-opposite-order-as-constructors-part-one/)
  - [ ] [Immutability in C# Part Eleven: A working double-ended queue](https://ericlippert.com/2008/02/12/immutability-in-c-part-eleven-a-working-double-ended-queue/)
 
 ## [January 2008](https://ericlippert.com/2008/01/)
