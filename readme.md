@@ -547,7 +547,7 @@
  - [ ] [Thumbs up](https://ericlippert.com/2013/04/05/thumbs-up/)
  - [ ] [What does the langversion switch do?](https://ericlippert.com/2013/04/04/what-does-the-langversion-switch-do/)
  - [x] [Monads, part thirteen](https://ericlippert.com/2013/04/03/monads-part-thirteen/)
- - [ ] [Monads, part twelve](https://ericlippert.com/2013/04/02/monads-part-twelve/)
+ - [x] [Monads, part twelve](https://ericlippert.com/2013/04/02/monads-part-twelve/)
 
 ## [March 2013](https://ericlippert.com/2013/03/)
  - [x] [Monads, part eleven](https://ericlippert.com/2013/03/28/monads-part-eleven/)
