@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-130%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-18.76%25-green)
+![Static Badge](https://img.shields.io/badge/read-141%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-20.35%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -567,9 +567,9 @@
  - [x] [Monads, part one](https://ericlippert.com/2013/02/21/monads-part-one/)
  - [ ] [Static constructors, part four](https://ericlippert.com/2013/02/18/static-constructors-part-four/)
  - [ ] [Static constructors, part three](https://ericlippert.com/2013/02/14/static-constructors-part-three/)
- - [ ] [Free beer!](https://ericlippert.com/2013/02/13/free-beer/)
+ - [x] [Free beer!](https://ericlippert.com/2013/02/13/free-beer/)
  - [x] [Static constructors, part two](https://ericlippert.com/2013/02/11/static-constructors-part-two/)
- - [ ] [Digital pain (rerun)](https://ericlippert.com/2013/02/08/digital-pain/)
+ - [x] [Digital pain (rerun)](https://ericlippert.com/2013/02/08/digital-pain/)
  - [x] [Static constructors, part one](https://ericlippert.com/2013/02/06/static-constructors-part-one/)
  - [x] [The view from Columbia Center](https://ericlippert.com/2013/02/04/columbia-center/)
 
