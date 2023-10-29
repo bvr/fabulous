@@ -163,7 +163,7 @@
  - [ ] [Fixing Random, part 15](https://ericlippert.com/2019/03/22/fixing-random-part-15/)
  - [x] [So long, MSDN blog](https://ericlippert.com/2019/03/21/so-long-msdn-blog/)
  - [ ] [Fixing Random, part 14](https://ericlippert.com/2019/03/18/fixing-random-part-14/)
- - [ ] [Fixing Random, part 13](https://ericlippert.com/2019/03/14/fixing-random-part-13/)
+ - [x] [Fixing Random, part 13](https://ericlippert.com/2019/03/14/fixing-random-part-13/)
  - [x] [Fixing Random, part 12](https://ericlippert.com/2019/03/11/fixing-random-part-12/)
  - [x] [Fixing Random, part 11](https://ericlippert.com/2019/03/07/fixing-random-part-11/)
  - [x] [Fixing Random, part 10](https://ericlippert.com/2019/03/04/fixing-random-part-10/)
