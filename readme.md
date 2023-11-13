@@ -487,8 +487,8 @@
 
 ## [September 2013](https://ericlippert.com/2013/09/)
  - [ ] [Math from scratch, part four: natural multiplication](https://ericlippert.com/2013/09/30/math-from-scratch-part-four/)
- - [ ] [ATBG meets math from scratch](https://ericlippert.com/2013/09/25/bug-guys-meets-math-from-scratch/)
- - [ ] [Math from scratch, part three: natural addition](https://ericlippert.com/2013/09/23/math-from-scratch-part-three/)
+ - [x] [ATBG meets math from scratch](https://ericlippert.com/2013/09/25/bug-guys-meets-math-from-scratch/)
+ - [x] [Math from scratch, part three: natural addition](https://ericlippert.com/2013/09/23/math-from-scratch-part-three/)
  - [x] [Math from scratch, part two: zero and one](https://ericlippert.com/2013/09/19/math-from-scratch-part-two/)
  - [x] [Math from scratch, part one](https://ericlippert.com/2013/09/16/math-from-scratch-part-one/)
  - [ ] [ATBG: Reflection and default parameters](https://ericlippert.com/2013/09/11/reflection-and-default-parameters/)
