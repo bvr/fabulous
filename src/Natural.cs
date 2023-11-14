@@ -69,6 +69,42 @@ namespace ImmutableNumbers
                 return Create(Add(Add(x.tail, y.tail), One), ZeroBit);
         }
 
+        public static Natural operator -(Natural x, Natural y)
+        {
+            if (ReferenceEquals(x, null))
+                throw new ArgumentNullException("x");
+            else if (ReferenceEquals(y, null))
+                throw new ArgumentNullException("y");
+            else
+                return Subtract(x, y);
+        }
+
+        private static Natural Subtract(Natural x, Natural y)
+        {
+            if (ReferenceEquals(x, y))
+                return Zero;
+            else if (ReferenceEquals(y, Zero))
+                return x;
+            else if (ReferenceEquals(x, Zero))
+                throw new InvalidOperationException("Cannot subtract greater natural from lesser natural");
+            else if (x.head == y.head)
+                return Create(Subtract(x.tail, y.tail), ZeroBit);
+            else if (x.head == OneBit)
+                return Create(Subtract(x.tail, y.tail), OneBit);
+            else
+                return Create(Subtract(Subtract(x.tail, One), y.tail), OneBit);
+        }
+
+        public static Natural operator --(Natural x)
+        {
+            if (ReferenceEquals(x, null))
+                throw new ArgumentNullException("x");
+            else if (ReferenceEquals(x, Zero))
+                throw new InvalidOperationException();
+            else
+                return Subtract(x, One);
+        }
+
         public override string ToString()
         {
             if (ReferenceEquals(this, Zero))

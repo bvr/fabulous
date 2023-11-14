@@ -483,7 +483,7 @@
  - [ ] [Happy blogoversary](https://ericlippert.com/2013/10/11/happy-blogoversary/)
  - [ ] [ATBG: interfaces and increments](https://ericlippert.com/2013/10/09/bug-guys-interfaces/)
  - [ ] [Math from scratch, part six: comparisons](https://ericlippert.com/2013/10/07/math-from-scratch-part-six-comparisons/)
- - [ ] [Math from scratch, part five: natural subtraction](https://ericlippert.com/2013/10/03/math-from-scratch-part-five/)
+ - [x] [Math from scratch, part five: natural subtraction](https://ericlippert.com/2013/10/03/math-from-scratch-part-five/)
 
 ## [September 2013](https://ericlippert.com/2013/09/)
  - [x] [Math from scratch, part four: natural multiplication](https://ericlippert.com/2013/09/30/math-from-scratch-part-four/)
