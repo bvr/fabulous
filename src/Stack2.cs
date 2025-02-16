@@ -1,4 +1,3 @@
-
 // from https://ericlippert.com/2007/12/06/immutability-in-c-part-three-a-covariant-immutable-stack/
 
 public static class Extensions
@@ -51,6 +50,7 @@ public sealed class Stack<T> : IStack<T>
 
     private readonly T head;
     private readonly IStack<T> tail;
+
     private Stack(T head, IStack<T> tail)
     {
         this.head = head;
@@ -62,8 +62,10 @@ public sealed class Stack<T> : IStack<T>
         get { return false; }
     }
 
-    public T                Peek()                       => head;
-    public IStack<T>        Pop()                        => tail;
+    public T Peek() => head;
+
+    public IStack<T> Pop() => tail;
+
     public static IStack<T> Push(T head, IStack<T> tail) => new Stack<T>(head, tail);
 
     public IEnumerator<T> GetEnumerator()
