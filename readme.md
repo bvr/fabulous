@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-151%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-21.79%25-green)
+![Static Badge](https://img.shields.io/badge/read-155%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-22.37%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
