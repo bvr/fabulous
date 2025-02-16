@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-117%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-16.9%25-green)
+![Static Badge](https://img.shields.io/badge/read-121%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-17.5%25-green)
 
 
 ## [March 2023](https://ericlippert.com/2023/03/)
@@ -807,9 +807,9 @@
 
 ## [December 2007](https://ericlippert.com/2007/12/)
  - [ ] [Immutability in C# Part Seven: More on Binary Trees](https://ericlippert.com/2007/12/19/immutability-in-c-part-seven-more-on-binary-trees/)
- - [ ] [Immutability in C# Part Six: A Simple Binary Tree](https://ericlippert.com/2007/12/18/immutability-in-c-part-six-a-simple-binary-tree/)
- - [ ] [Immutability in C# Part Five: LOLZ!](https://ericlippert.com/2007/12/13/immutability-in-c-part-five-lolz/)
- - [ ] [Immutability in C# Part Four: An Immutable Queue](https://ericlippert.com/2007/12/10/immutability-in-c-part-four-an-immutable-queue/)
+ - [x] [Immutability in C# Part Six: A Simple Binary Tree](https://ericlippert.com/2007/12/18/immutability-in-c-part-six-a-simple-binary-tree/)
+ - [x] [Immutability in C# Part Five: LOLZ!](https://ericlippert.com/2007/12/13/immutability-in-c-part-five-lolz/)
+ - [x] [Immutability in C# Part Four: An Immutable Queue](https://ericlippert.com/2007/12/10/immutability-in-c-part-four-an-immutable-queue/)
  - [x] [Immutability in C# Part Three: A Covariant Immutable Stack](https://ericlippert.com/2007/12/06/immutability-in-c-part-three-a-covariant-immutable-stack/)
  - [x] [Immutability in C# Part Two: A Simple Immutable Stack](https://ericlippert.com/2007/12/04/immutability-in-c-part-two-a-simple-immutable-stack/)
 
