@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-155%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-22.37%25-green)
+![Static Badge](https://img.shields.io/badge/read-160%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-23.09%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -797,12 +797,12 @@
  - [x] [How to not get a question answered](https://ericlippert.com/2008/02/20/how-to-not-get-a-question-answered/)
  - [x] [Why Do Initializers Run In The Opposite Order As Constructors? Part Two](https://ericlippert.com/2008/02/18/why-do-initializers-run-in-the-opposite-order-as-constructors-part-two/)
  - [x] [Why Do Initializers Run In The Opposite Order As Constructors? Part One](https://ericlippert.com/2008/02/15/why-do-initializers-run-in-the-opposite-order-as-constructors-part-one/)
- - [ ] [Immutability in C# Part Eleven: A working double-ended queue](https://ericlippert.com/2008/02/12/immutability-in-c-part-eleven-a-working-double-ended-queue/)
+ - [x] [Immutability in C# Part Eleven: A working double-ended queue](https://ericlippert.com/2008/02/12/immutability-in-c-part-eleven-a-working-double-ended-queue/)
 
 ## [January 2008](https://ericlippert.com/2008/01/)
- - [ ] [Immutability in C# Part Ten: A double-ended queue](https://ericlippert.com/2008/01/22/immutability-in-c-part-ten-a-double-ended-queue/)
- - [ ] [Immutability in C# Part Nine: Academic? Plus my AVL tree implementation](https://ericlippert.com/2008/01/21/immutability-in-c-part-nine-academic-plus-my-avl-tree-implementation/)
- - [ ] [Immutability in C# Part Eight: Even More On Binary Trees](https://ericlippert.com/2008/01/18/immutability-in-c-part-eight-even-more-on-binary-trees/)
+ - [x] [Immutability in C# Part Ten: A double-ended queue](https://ericlippert.com/2008/01/22/immutability-in-c-part-ten-a-double-ended-queue/)
+ - [x] [Immutability in C# Part Nine: Academic? Plus my AVL tree implementation](https://ericlippert.com/2008/01/21/immutability-in-c-part-nine-academic-plus-my-avl-tree-implementation/)
+ - [x] [Immutability in C# Part Eight: Even More On Binary Trees](https://ericlippert.com/2008/01/18/immutability-in-c-part-eight-even-more-on-binary-trees/)
 
 ## [December 2007](https://ericlippert.com/2007/12/)
  - [x] [Immutability in C# Part Seven: More on Binary Trees](https://ericlippert.com/2007/12/19/immutability-in-c-part-seven-more-on-binary-trees/)
