@@ -1,5 +1,7 @@
 
-// from https://ericlippert.com/2007/12/18/immutability-in-c-part-six-a-simple-binary-tree/
+// from 
+// - https://ericlippert.com/2007/12/18/immutability-in-c-part-six-a-simple-binary-tree/
+// - https://ericlippert.com/2007/12/19/immutability-in-c-part-seven-more-on-binary-trees/
 
 public interface IBinaryTree<V>
 {
@@ -50,13 +52,19 @@ public sealed class BinaryTree<V> : IBinaryTree<V>
     }
 }
 
-public static IEnumerable<V> InOrder<V>(this IBinaryTree<V> tree)
+// rewritten without recursion in part 7
+public static IEnumerable<T> InOrder<T>(this IBinaryTree<T> tree)
 {
-    // BAD IMPLEMENTATION, DO NOT DO THIS
-    if (tree.IsEmpty) yield break;
-    foreach (V v in tree.Left.InOrder()) 
-        yield return v;
-    yield return tree.Value;
-    foreach (V v in tree.Right.InOrder()) 
-        yield return v;
+    IStack<IBinaryTree<T>> stack = Stack<IBinaryTree<T>>.Empty;
+    for (IBinaryTree<T> current = tree; !current.IsEmpty || !stack.IsEmpty; current = current.Right)
+    {
+        while (!current.IsEmpty)
+        {
+            stack = stack.Push(current);
+            current = current.Left;
+        }
+        current = stack.Peek();
+        stack = stack.Pop();
+        yield return current.Value;
+    }
 }

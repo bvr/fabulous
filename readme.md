@@ -805,7 +805,7 @@
  - [ ] [Immutability in C# Part Eight: Even More On Binary Trees](https://ericlippert.com/2008/01/18/immutability-in-c-part-eight-even-more-on-binary-trees/)
 
 ## [December 2007](https://ericlippert.com/2007/12/)
- - [ ] [Immutability in C# Part Seven: More on Binary Trees](https://ericlippert.com/2007/12/19/immutability-in-c-part-seven-more-on-binary-trees/)
+ - [x] [Immutability in C# Part Seven: More on Binary Trees](https://ericlippert.com/2007/12/19/immutability-in-c-part-seven-more-on-binary-trees/)
  - [x] [Immutability in C# Part Six: A Simple Binary Tree](https://ericlippert.com/2007/12/18/immutability-in-c-part-six-a-simple-binary-tree/)
  - [x] [Immutability in C# Part Five: LOLZ!](https://ericlippert.com/2007/12/13/immutability-in-c-part-five-lolz/)
  - [x] [Immutability in C# Part Four: An Immutable Queue](https://ericlippert.com/2007/12/10/immutability-in-c-part-four-an-immutable-queue/)
