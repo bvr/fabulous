@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-160%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-23.09%25-green)
+![Static Badge](https://img.shields.io/badge/read-164%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-23.67%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -25,7 +25,7 @@
  - [ ] [Bean Machine Retrospective, part 1](https://ericlippert.com/2022/12/02/bean-machine-retrospective-part-1/)
 
 ## [November 2022](https://ericlippert.com/2022/11/)
- - [ ] [A long expected update](https://ericlippert.com/2022/11/30/a-long-expected-update/)
+ - [x] [A long expected update](https://ericlippert.com/2022/11/30/a-long-expected-update/)
 
 ## [February 2021](https://ericlippert.com/2021/02/)
  - [ ] [Life, part 38](https://ericlippert.com/2021/02/17/life-part-38/)
@@ -40,7 +40,7 @@
  - [ ] [Life, part 36](https://ericlippert.com/2020/10/06/life-part-36/)
 
 ## [September 2020](https://ericlippert.com/2020/09/)
- - [ ] [Introducing Bean Machine](https://ericlippert.com/2020/09/23/introducing-bean-machine/)
+ - [x] [Introducing Bean Machine](https://ericlippert.com/2020/09/23/introducing-bean-machine/)
  - [ ] [Life, part 35](https://ericlippert.com/2020/09/14/life-part-35/)
  - [ ] [Life, part 34](https://ericlippert.com/2020/09/10/life-part-34/)
  - [ ] [Installing windows](https://ericlippert.com/2020/09/08/installing-windows/)
@@ -224,7 +224,7 @@
  - [ ] [Excessive explanation, part nineteen](https://ericlippert.com/2017/02/21/excessive-explanation-part-nineteen/)
  - [ ] [Excessive explanation, part eighteen](https://ericlippert.com/2017/02/16/excessive-explanation-part-eighteen/)
  - [ ] [The chess mystery, solved](https://ericlippert.com/2017/02/14/the-chess-mystery-solved/)
- - [ ] [Why should I be worried about dying?](https://ericlippert.com/2017/02/13/why-should-i-be-worried-about-dying/)
+ - [x] [Why should I be worried about dying?](https://ericlippert.com/2017/02/13/why-should-i-be-worried-about-dying/)
  - [ ] [Excessive explanation, part seventeen](https://ericlippert.com/2017/02/09/excessive-explanation-part-seventeen/)
  - [ ] [Excessive explanation, part sixteen](https://ericlippert.com/2017/02/06/excessive-explanation-part-sixteen/)
  - [ ] [Excessive explanation, part fifteen](https://ericlippert.com/2017/02/02/excessive-explanation-part-fifteen/)
@@ -232,7 +232,7 @@
 ## [January 2017](https://ericlippert.com/2017/01/)
  - [ ] [Excessive explanation, part fourteen](https://ericlippert.com/2017/01/30/excessive-explanation-part-fourteen/)
  - [ ] [Excessive explanation, part thirteen](https://ericlippert.com/2017/01/26/excessive-explanation-part-thirteen/)
- - [ ] [Real Americans](https://ericlippert.com/2017/01/24/real-americans/)
+ - [x] [Real Americans](https://ericlippert.com/2017/01/24/real-americans/)
  - [ ] [Excessive explanation, part twelve](https://ericlippert.com/2017/01/19/excessive-explanation-part-twelve/)
  - [ ] [Excessive explanation, part eleven](https://ericlippert.com/2017/01/17/excessive-explanation-part-eleven/)
  - [ ] [Excessive explanation, part ten](https://ericlippert.com/2017/01/12/excessive-explanation-part-ten/)
