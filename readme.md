@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-164%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-23.67%25-green)
+![Static Badge](https://img.shields.io/badge/read-167%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-24.10%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -18,7 +18,7 @@
 
 ## [December 2022](https://ericlippert.com/2022/12/)
  - [ ] [Bean Machine Retrospective, part 5](https://ericlippert.com/2022/12/20/bean-machine-retrospective-part-5/)
- - [ ] [I want toast](https://ericlippert.com/2022/12/14/i-want-toast/)
+ - [x] [I want toast](https://ericlippert.com/2022/12/14/i-want-toast/)
  - [ ] [Bean Machine Retrospective, part 4](https://ericlippert.com/2022/12/09/bean-machine-retrospective-part-4/)
  - [ ] [Bean Machine Retrospective, part 3](https://ericlippert.com/2022/12/07/bean-machine-retrospective-part-3/)
  - [ ] [Bean Machine Retrospective, part 2](https://ericlippert.com/2022/12/05/bean-machine-retrospective-part-2/)
@@ -946,10 +946,10 @@
  - [ ] [Cannot use parentheses when calling a Sub](https://ericlippert.com/2003/09/15/what-do-you-mean-cannot-use-parentheses/)
  - [ ] [Why does JavaScript have rounding errors?](https://ericlippert.com/2003/09/15/why-does-jscript-have-rounding-errors/)
  - [ ] [What’s up with Hungarian Notation?](https://ericlippert.com/2003/09/12/whats-up-with-hungarian-notation/)
- - [ ] [Eric’s complete guide to BSTR semantics](https://ericlippert.com/2003/09/12/erics-complete-guide-to-bstr-semantics/)
+ - [x] [Eric’s complete guide to BSTR semantics](https://ericlippert.com/2003/09/12/erics-complete-guide-to-bstr-semantics/)
 
 ## [August 2003](https://ericlippert.com/2003/08/)
- - [ ] [Fabulous Adventures!](https://ericlippert.com/2003/08/30/fabulous-adventures-2/)
+ - [x] [Fabulous Adventures!](https://ericlippert.com/2003/08/30/fabulous-adventures-2/)
 
 *[ATBG]: Ask the Bug Guys
 *[VSTO]: Visual Studio Tools for Office
