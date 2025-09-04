@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-167%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-24.10%25-green)
+![Static Badge](https://img.shields.io/badge/read-169%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-24.39%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -944,8 +944,8 @@
  - [ ] [What are the VBScript semantics for object members?](https://ericlippert.com/2003/09/15/what-are-the-vbscript-semantics-for-object-members/)
  - [ ] [More on ByVal and ByRef](https://ericlippert.com/2003/09/15/more-on-byval-and-byref/)
  - [ ] [Cannot use parentheses when calling a Sub](https://ericlippert.com/2003/09/15/what-do-you-mean-cannot-use-parentheses/)
- - [ ] [Why does JavaScript have rounding errors?](https://ericlippert.com/2003/09/15/why-does-jscript-have-rounding-errors/)
- - [ ] [What’s up with Hungarian Notation?](https://ericlippert.com/2003/09/12/whats-up-with-hungarian-notation/)
+ - [x] [Why does JavaScript have rounding errors?](https://ericlippert.com/2003/09/15/why-does-jscript-have-rounding-errors/)
+ - [x] [What’s up with Hungarian Notation?](https://ericlippert.com/2003/09/12/whats-up-with-hungarian-notation/)
  - [x] [Eric’s complete guide to BSTR semantics](https://ericlippert.com/2003/09/12/erics-complete-guide-to-bstr-semantics/)
 
 ## [August 2003](https://ericlippert.com/2003/08/)
