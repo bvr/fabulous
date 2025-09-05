@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-169%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-24.39%25-green)
+![Static Badge](https://img.shields.io/badge/read-173%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-24.96%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -940,10 +940,10 @@
  - [ ] [Are JScript strings passed by value or by reference?](https://ericlippert.com/2003/09/16/are-jscript-strings-passed-by-value-or-by-reference/)
  - [ ] [Smart pointers are too smart](https://ericlippert.com/2003/09/16/smart-pointers-are-too-smart/)
  - [ ] [Eric’s Complete Guide to VT_DATE](https://ericlippert.com/2003/09/16/erics-complete-guide-to-vt_date/)
- - [ ] [Bad Hungarian](https://ericlippert.com/2003/09/16/bad-hungarian/)
- - [ ] [What are the VBScript semantics for object members?](https://ericlippert.com/2003/09/15/what-are-the-vbscript-semantics-for-object-members/)
- - [ ] [More on ByVal and ByRef](https://ericlippert.com/2003/09/15/more-on-byval-and-byref/)
- - [ ] [Cannot use parentheses when calling a Sub](https://ericlippert.com/2003/09/15/what-do-you-mean-cannot-use-parentheses/)
+ - [x] [Bad Hungarian](https://ericlippert.com/2003/09/16/bad-hungarian/)
+ - [x] [What are the VBScript semantics for object members?](https://ericlippert.com/2003/09/15/what-are-the-vbscript-semantics-for-object-members/)
+ - [x] [More on ByVal and ByRef](https://ericlippert.com/2003/09/15/more-on-byval-and-byref/)
+ - [x] [Cannot use parentheses when calling a Sub](https://ericlippert.com/2003/09/15/what-do-you-mean-cannot-use-parentheses/)
  - [x] [Why does JavaScript have rounding errors?](https://ericlippert.com/2003/09/15/why-does-jscript-have-rounding-errors/)
  - [x] [What’s up with Hungarian Notation?](https://ericlippert.com/2003/09/12/whats-up-with-hungarian-notation/)
  - [x] [Eric’s complete guide to BSTR semantics](https://ericlippert.com/2003/09/12/erics-complete-guide-to-bstr-semantics/)
