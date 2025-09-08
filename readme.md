@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-173%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-24.96%25-green)
+![Static Badge](https://img.shields.io/badge/read-175%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-25.25%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -938,8 +938,8 @@
  - [ ] [Why do the script engines not cache dispatch identifiers?](https://ericlippert.com/2003/09/16/why-do-the-script-engines-not-cache-dispatch-identifiers/)
  - [ ] [What Are “Anonymous Functions” In JScript?](https://ericlippert.com/2003/09/16/what-are-anonymous-functions-in-jscript/)
  - [ ] [Are JScript strings passed by value or by reference?](https://ericlippert.com/2003/09/16/are-jscript-strings-passed-by-value-or-by-reference/)
- - [ ] [Smart pointers are too smart](https://ericlippert.com/2003/09/16/smart-pointers-are-too-smart/)
- - [ ] [Eric’s Complete Guide to VT_DATE](https://ericlippert.com/2003/09/16/erics-complete-guide-to-vt_date/)
+ - [x] [Smart pointers are too smart](https://ericlippert.com/2003/09/16/smart-pointers-are-too-smart/)
+ - [x] [Eric’s Complete Guide to VT_DATE](https://ericlippert.com/2003/09/16/erics-complete-guide-to-vt_date/)
  - [x] [Bad Hungarian](https://ericlippert.com/2003/09/16/bad-hungarian/)
  - [x] [What are the VBScript semantics for object members?](https://ericlippert.com/2003/09/15/what-are-the-vbscript-semantics-for-object-members/)
  - [x] [More on ByVal and ByRef](https://ericlippert.com/2003/09/15/more-on-byval-and-byref/)
