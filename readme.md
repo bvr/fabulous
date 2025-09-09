@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-175%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-25.25%25-green)
+![Static Badge](https://img.shields.io/badge/read-179%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-25.83%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -934,10 +934,10 @@
  - [ ] [What are threading models, and what threading model do the script engines use?](https://ericlippert.com/2003/09/18/what-are-threading-models-and-what-threading-model-do-the-script-engines-use/)
  - [ ] [How Do The Script Garbage Collectors Work?](https://ericlippert.com/2003/09/17/how-do-the-script-garbage-collectors-work/)
  - [ ] [What are closures?](https://ericlippert.com/2003/09/17/what-are-closures/)
- - [ ] [Are JScript strings passed by reference?](https://ericlippert.com/2003/09/17/are-jscript-strings-passed-by-reference/)
- - [ ] [Why do the script engines not cache dispatch identifiers?](https://ericlippert.com/2003/09/16/why-do-the-script-engines-not-cache-dispatch-identifiers/)
- - [ ] [What Are “Anonymous Functions” In JScript?](https://ericlippert.com/2003/09/16/what-are-anonymous-functions-in-jscript/)
- - [ ] [Are JScript strings passed by value or by reference?](https://ericlippert.com/2003/09/16/are-jscript-strings-passed-by-value-or-by-reference/)
+ - [x] [Are JScript strings passed by reference?](https://ericlippert.com/2003/09/17/are-jscript-strings-passed-by-reference/)
+ - [x] [Why do the script engines not cache dispatch identifiers?](https://ericlippert.com/2003/09/16/why-do-the-script-engines-not-cache-dispatch-identifiers/)
+ - [x] [What Are “Anonymous Functions” In JScript?](https://ericlippert.com/2003/09/16/what-are-anonymous-functions-in-jscript/)
+ - [x] [Are JScript strings passed by value or by reference?](https://ericlippert.com/2003/09/16/are-jscript-strings-passed-by-value-or-by-reference/)
  - [x] [Smart pointers are too smart](https://ericlippert.com/2003/09/16/smart-pointers-are-too-smart/)
  - [x] [Eric’s Complete Guide to VT_DATE](https://ericlippert.com/2003/09/16/erics-complete-guide-to-vt_date/)
  - [x] [Bad Hungarian](https://ericlippert.com/2003/09/16/bad-hungarian/)
