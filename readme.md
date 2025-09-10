@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-179%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-25.83%25-green)
+![Static Badge](https://img.shields.io/badge/read-180%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-25.97%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -933,7 +933,7 @@
  - [ ] [How does Active Server Pages use the script engines?](https://ericlippert.com/2003/09/18/how-does-active-server-pages-use-the-script-engines/)
  - [ ] [What are threading models, and what threading model do the script engines use?](https://ericlippert.com/2003/09/18/what-are-threading-models-and-what-threading-model-do-the-script-engines-use/)
  - [ ] [How Do The Script Garbage Collectors Work?](https://ericlippert.com/2003/09/17/how-do-the-script-garbage-collectors-work/)
- - [ ] [What are closures?](https://ericlippert.com/2003/09/17/what-are-closures/)
+ - [x] [What are closures?](https://ericlippert.com/2003/09/17/what-are-closures/)
  - [x] [Are JScript strings passed by reference?](https://ericlippert.com/2003/09/17/are-jscript-strings-passed-by-reference/)
  - [x] [Why do the script engines not cache dispatch identifiers?](https://ericlippert.com/2003/09/16/why-do-the-script-engines-not-cache-dispatch-identifiers/)
  - [x] [What Are “Anonymous Functions” In JScript?](https://ericlippert.com/2003/09/16/what-are-anonymous-functions-in-jscript/)
