@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-185%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-26.70%25-green)
+![Static Badge](https://img.shields.io/badge/read-189%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-27.27%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -29,7 +29,7 @@
 
 ## [February 2021](https://ericlippert.com/2021/02/)
  - [ ] [Life, part 38](https://ericlippert.com/2021/02/17/life-part-38/)
- - [ ] [Hey now, you’re an all-star](https://ericlippert.com/2021/02/09/hey-now-youre-an-all-star/)
+ - [x] [Hey now, you’re an all-star](https://ericlippert.com/2021/02/09/hey-now-youre-an-all-star/)
 
 ## [December 2020](https://ericlippert.com/2020/12/)
  - [x] [Backyard birds of Seattle](https://ericlippert.com/2020/12/15/backyard-birds-of-seattle/)
@@ -136,7 +136,7 @@
  - [ ] [Porting old posts, part 4](https://ericlippert.com/2019/05/30/porting-old-posts-part-4/)
  - [ ] [Fixing Random, part 32](https://ericlippert.com/2019/05/28/fixing-random-part-32/)
  - [ ] [Fixing Random, part 31](https://ericlippert.com/2019/05/20/fixing-random-part-31/)
- - [ ] [Applying machine learning to coding itself](https://ericlippert.com/2019/05/16/applying-machine-learning-to-coding-itself/)
+ - [x] [Applying machine learning to coding itself](https://ericlippert.com/2019/05/16/applying-machine-learning-to-coding-itself/)
  - [ ] [Fixing Random, part 30](https://ericlippert.com/2019/05/13/fixing-random-part-30/)
  - [ ] [Fixing Random, part 29](https://ericlippert.com/2019/05/10/fixing-random-part-29/)
  - [ ] [Fixing Random, part 28](https://ericlippert.com/2019/05/06/fixing-random-part-28/)
