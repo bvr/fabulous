@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-184%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-26.55%25-green)
+![Static Badge](https://img.shields.io/badge/read-185%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-26.70%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -926,9 +926,9 @@
  - [ ] [Running Me Ragged](https://ericlippert.com/2003/09/22/running-me-ragged/)
  - [ ] [“For Each” vs. “for in”](https://ericlippert.com/2003/09/22/for-each-vs-for-in/)
  - [ ] [JScript and VBScript Arrays](https://ericlippert.com/2003/09/22/jscript-and-vbscript-arrays/)
- - [ ] [Why does VBScript have Execute, ExecuteGlobal and Eval?](https://ericlippert.com/2003/09/20/why-does-vbscript-have-execute-executeglobal-and-eval/)
- - [ ] [Arrrrr! Cap’n Eric be learnin’ about threadin’ the harrrrd way](https://ericlippert.com/2003/09/19/arrrrr-capn-eric-be-learnin-about-threadin-the-harrrrd-way/)
- - [ ] [Hard Core Denotational Semantics](https://ericlippert.com/2003/09/18/hard-core-denotational-semantics/)
+ - [x] [Why does VBScript have Execute, ExecuteGlobal and Eval?](https://ericlippert.com/2003/09/20/why-does-vbscript-have-execute-executeglobal-and-eval/)
+ - [x] [Arrrrr! Cap’n Eric be learnin’ about threadin’ the harrrrd way](https://ericlippert.com/2003/09/19/arrrrr-capn-eric-be-learnin-about-threadin-the-harrrrd-way/)
+ - [x] [Hard Core Denotational Semantics](https://ericlippert.com/2003/09/18/hard-core-denotational-semantics/)
  - [x] [Why is it a bad idea to put script objects in Session scope?](https://ericlippert.com/2003/09/18/why-is-it-a-bad-idea-to-put-script-objects-in-session-scope/)
  - [x] [How does Active Server Pages use the script engines?](https://ericlippert.com/2003/09/18/how-does-active-server-pages-use-the-script-engines/)
  - [x] [What are threading models, and what threading model do the script engines use?](https://ericlippert.com/2003/09/18/what-are-threading-models-and-what-threading-model-do-the-script-engines-use/)
