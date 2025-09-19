@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-191%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-27.56%25-green)
+![Static Badge](https://img.shields.io/badge/read-194%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-27.99%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -921,9 +921,9 @@
  - [ ] [I’m a traveling man, don’t tie me down](https://ericlippert.com/2003/09/24/im-a-traveling-man-dont-tie-me-down/)
  - [ ] [Error messages considered harmful](https://ericlippert.com/2003/09/24/error-messages-considered-harmful/)
  - [ ] [They call me “LoadPicture Lippert”](https://ericlippert.com/2003/09/23/they-call-me-loadpicture-lippert/)
- - [ ] [Hi, I’m Eric and I’ll be your software developer this evening](https://ericlippert.com/2003/09/23/hi-im-eric-and-ill-be-your-software-developer-this-evening/)
- - [ ] [JScript eval redux, and some spec diving](https://ericlippert.com/2003/09/22/jscript-eval-redux-and-some-spec-diving/)
- - [ ] [Running Me Ragged](https://ericlippert.com/2003/09/22/running-me-ragged/)
+ - [x] [Hi, I’m Eric and I’ll be your software developer this evening](https://ericlippert.com/2003/09/23/hi-im-eric-and-ill-be-your-software-developer-this-evening/)
+ - [x] [JScript eval redux, and some spec diving](https://ericlippert.com/2003/09/22/jscript-eval-redux-and-some-spec-diving/)
+ - [x] [Running Me Ragged](https://ericlippert.com/2003/09/22/running-me-ragged/)
  - [x] [“For Each” vs. “for in”](https://ericlippert.com/2003/09/22/for-each-vs-for-in/)
  - [x] [JScript and VBScript Arrays](https://ericlippert.com/2003/09/22/jscript-and-vbscript-arrays/)
  - [x] [Why does VBScript have Execute, ExecuteGlobal and Eval?](https://ericlippert.com/2003/09/20/why-does-vbscript-have-execute-executeglobal-and-eval/)
