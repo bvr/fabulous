@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-194%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-27.99%25-green)
+![Static Badge](https://img.shields.io/badge/read-197%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-28.43%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -918,9 +918,9 @@
  - [ ] [Bankers’ Rounding](https://ericlippert.com/2003/09/26/bankers-rounding/)
  - [ ] [More on Certificates and Trust Decisions](https://ericlippert.com/2003/09/25/more-on-certificates-and-trust-decisions/)
  - [ ] [Evil Security Twin Powers… Activate!](https://ericlippert.com/2003/09/25/evil-security-twin-powers-activate/)
- - [ ] [I’m a traveling man, don’t tie me down](https://ericlippert.com/2003/09/24/im-a-traveling-man-dont-tie-me-down/)
- - [ ] [Error messages considered harmful](https://ericlippert.com/2003/09/24/error-messages-considered-harmful/)
- - [ ] [They call me “LoadPicture Lippert”](https://ericlippert.com/2003/09/23/they-call-me-loadpicture-lippert/)
+ - [x] [I’m a traveling man, don’t tie me down](https://ericlippert.com/2003/09/24/im-a-traveling-man-dont-tie-me-down/)
+ - [x] [Error messages considered harmful](https://ericlippert.com/2003/09/24/error-messages-considered-harmful/)
+ - [x] [They call me “LoadPicture Lippert”](https://ericlippert.com/2003/09/23/they-call-me-loadpicture-lippert/)
  - [x] [Hi, I’m Eric and I’ll be your software developer this evening](https://ericlippert.com/2003/09/23/hi-im-eric-and-ill-be-your-software-developer-this-evening/)
  - [x] [JScript eval redux, and some spec diving](https://ericlippert.com/2003/09/22/jscript-eval-redux-and-some-spec-diving/)
  - [x] [Running Me Ragged](https://ericlippert.com/2003/09/22/running-me-ragged/)
