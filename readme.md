@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-199%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-28.72%25-green)
+![Static Badge](https://img.shields.io/badge/read-202%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-29.15%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -912,10 +912,10 @@
  - [ ] [A Little More on Nothing](https://ericlippert.com/2003/10/01/a-little-more-on-nothing/)
 
 ## [September 2003](https://ericlippert.com/2003/09/)
- - [ ] [A Whole Lot Of Nothing](https://ericlippert.com/2003/09/30/a-whole-lot-of-nothing/)
- - [ ] [In, Out, In-Out, Make Up Your Mind Already](https://ericlippert.com/2003/09/29/in-out-in-out-make-up-your-mind-already/)
+ - [x] [A Whole Lot Of Nothing](https://ericlippert.com/2003/09/30/a-whole-lot-of-nothing/)
+ - [x] [In, Out, In-Out, Make Up Your Mind Already](https://ericlippert.com/2003/09/29/in-out-in-out-make-up-your-mind-already/)
  - [x] [What could numeric rounding possibly have to do with MS-DOS?](https://ericlippert.com/2003/09/26/what-could-numeric-rounding-possibly-have-to-do-with-ms-dos/)
- - [ ] [Bankers’ Rounding](https://ericlippert.com/2003/09/26/bankers-rounding/)
+ - [x] [Bankers’ Rounding](https://ericlippert.com/2003/09/26/bankers-rounding/)
  - [x] [More on Certificates and Trust Decisions](https://ericlippert.com/2003/09/25/more-on-certificates-and-trust-decisions/)
  - [x] [Evil Security Twin Powers… Activate!](https://ericlippert.com/2003/09/25/evil-security-twin-powers-activate/)
  - [x] [I’m a traveling man, don’t tie me down](https://ericlippert.com/2003/09/24/im-a-traveling-man-dont-tie-me-down/)
