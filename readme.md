@@ -1,6 +1,6 @@
 
-![Static Badge](https://img.shields.io/badge/read-202%20out%20of%20693-yellow)
-![Static Badge](https://img.shields.io/badge/done-29.15%25-green)
+![Static Badge](https://img.shields.io/badge/read-205%20out%20of%20693-yellow)
+![Static Badge](https://img.shields.io/badge/done-29.58%25-green)
 
 ## [March 2023](https://ericlippert.com/2023/03/)
  - [ ] [Bean Machine Retrospective, part 9](https://ericlippert.com/2023/03/21/bean-machine-retrospective-part-9/)
@@ -907,9 +907,9 @@
  - [ ] [I can’t make my script do nothing!](https://ericlippert.com/2003/10/07/i-cant-make-my-script-do-nothing/)
  - [ ] [Eric’s Blog for January 279th, 2003](https://ericlippert.com/2003/10/06/erics-blog-for-january-279th-2003/)
  - [ ] [“With” considered harmful](https://ericlippert.com/2003/10/03/with-considered-harmful/)
- - [ ] [Let’s Get Explicit!](https://ericlippert.com/2003/10/02/lets-get-explicit/)
- - [ ] [For-in Revisited](https://ericlippert.com/2003/10/01/for-in-revisited/)
- - [ ] [A Little More on Nothing](https://ericlippert.com/2003/10/01/a-little-more-on-nothing/)
+ - [x] [Let’s Get Explicit!](https://ericlippert.com/2003/10/02/lets-get-explicit/)
+ - [x] [For-in Revisited](https://ericlippert.com/2003/10/01/for-in-revisited/)
+ - [x] [A Little More on Nothing](https://ericlippert.com/2003/10/01/a-little-more-on-nothing/)
 
 ## [September 2003](https://ericlippert.com/2003/09/)
  - [x] [A Whole Lot Of Nothing](https://ericlippert.com/2003/09/30/a-whole-lot-of-nothing/)
